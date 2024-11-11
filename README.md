@@ -14,6 +14,6 @@ akash01s.roy@gmail.com<br>
 Akash.SinghaRoy@uga.edu
 
 <p>
-  **Office:** Boyd Research and Education Center, 427J
+ **Office:** Boyd Research and Education Center, 427J
 </p>
 
