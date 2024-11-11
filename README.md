@@ -9,9 +9,9 @@ My research interests lie primarily in the areas of elementary, analytic, combin
 
 ## Contact Information
 
-Emails: 
-akash01s.roy@gmail.com
-Akash.SinghaRoy@uga.edu
+Emails:\\ 
+akash01s.roy@gmail.com\\
+Akash.SinghaRoy@uga.edu\\
 
 Office: Boyd Research and Education Center, 427J
 
