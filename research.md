@@ -58,7 +58,7 @@ _Submitted to Acta. Arith._ <br>
 _Submitted to Math Z._ <br>
 **Link:** [Most recent version](JtAddEqd.pdf)
 
-15. Anatomical mean value bounds on  multiplicative functions and applications to the distribution of the sum of divisors, 34 pages <br>
+15. Anatomical mean value bounds on  multiplicative functions and the distribution of the sum of divisors, 34 pages <br>
 _Submitted to Michigan Math. J._ <br>
 **Link:** [Most recent version](MFBound2_SigmaEqd.pdf)
 
