@@ -17,7 +17,7 @@ Akash.SinghaRoy@uga.edu<p>
 
 # [Curriculum Vitae]().
 
-# [ResearchL Publications, Preprints and Talks](https://akashsingharoy.github.io/research) 
+# [Research: Publications, Preprints and Talks](https://akashsingharoy.github.io/research) 
 
 # [Teaching and Service](https://akashsingharoy.github.io/teachingandservice)
 
