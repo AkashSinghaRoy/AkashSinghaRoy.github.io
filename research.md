@@ -1,4 +1,4 @@
-# Publications
+# Publications, Preprints and Talks
 ## Published and Accepted Works  
 
 1. Steps into analytic number theory: A problem-based introduction (with P. Pollack)<br>
