@@ -4,7 +4,7 @@
 Have refereed for
 1. ``Women in Numbers Europe 4 – Research Directions in Number Theory”, Springer, Association for Women in Mathematics Series.
 
-2. Rose--Hulman Undergraduate Mathematics Journal.
+2. Rose-Hulman Undergraduate Mathematics Journal.
 
 ## Current teaching and service at UGA (Fall 2024) 
 1. Instructor of MATH 2250 (Calculus I) <br>
@@ -40,9 +40,9 @@ _The Ross Program is a residential summer math camp for  high school students, p
 
    Received Exemplary Counselor Award "in recognition of outstanding work at the 2019 Ross/Asia Mathematics Program" and "showing     exemplary dedication to the spirit of the Ross program". 
 
-2. Served on committee for evaluating applications to the Ross Mathematics Program:  2020--2021.
+2. Served on committee for evaluating applications to the Ross Mathematics Program:  2020-2021.
 
-3. Teaching assistant in the courses Algebra III and Algebra IV at the Chennai Mathematical Institute: 2020--2021. 
+3. Teaching assistant in the courses Algebra III and Algebra IV at the Chennai Mathematical Institute: 2020-2021. 
 
 4. Contributed questions to and served as grader for the Scholastic Test for Excellence in Mathematical Sciences (STEMS) conducted by the Chennai Mathematical Institute: 2019.
 
