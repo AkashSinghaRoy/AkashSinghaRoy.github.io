@@ -21,18 +21,18 @@ _Contributed several questions and was involved in the design of the contest._
 4. Instructor of MATH 2250 (Calculus I) <br>
 _Flipped/hybrid classroom structure._
 
-5. Committee for design of MATH 2250 final exam at UGA
+5. Committee for design of MATH 2250 final exam
 
 6. MATH 2250 Active Learning Working Group
 
 7. Math Study Hall tutor
    
 ### Fall 2023
-8. Instructor for MATH 1113 (Precalculus) at UGA
+8. Instructor for MATH 1113 (Precalculus) <br>
 _Flipped classroom structure._
 
-9. Grader for MATH 3100 (Sequences and series)
-_Instructed by Prof.~Paul Pollack_
+9. Grader for MATH 3100 (Sequences and series) <br>
+_Instructed by Prof. Paul Pollack_
 
 ## Teaching and service prior to UGA 
 1. Counselor in the Ross/Asia Mathematics program 2019. <br>
