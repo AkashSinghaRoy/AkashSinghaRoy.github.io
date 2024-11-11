@@ -60,7 +60,7 @@ _Submitted to Math Z._ <br>
 
 15. Anatomical mean value bounds on  multiplicative functions and applications to the distribution of the sum of divisors, 34 pages <br>
 _Submitted to Michigan Math. J._ <br>
-**Link:** [Most recent version](.pdf)
+**Link:** [Most recent version](MFBound2_SigmaEqd.pdf)
 
 ## Manuscripts under preparation
 
