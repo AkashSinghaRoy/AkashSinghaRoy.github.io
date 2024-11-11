@@ -13,7 +13,5 @@ My research interests lie primarily in the areas of elementary, analytic, combin
 akash01s.roy@gmail.com<br>
 Akash.SinghaRoy@uga.edu<p>
  
-**Office:** Boyd Research and Education Center, 427J
-
-</p>
+**Office:** Boyd Research and Education Center, 427J </p>
 
