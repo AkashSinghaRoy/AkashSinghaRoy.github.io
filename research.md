@@ -38,7 +38,7 @@ _Monatsh.~Math. **202** (2023), 837–855._ <br>
 **Link:** [Journal](https://link.springer.com/article/10.1007/s00605-023-01855-w)
 
 10. The distribution of intermediate prime factors (with N. McNew and P. Pollack) <br>
-_Illinois J. Math. **68** (2024), no. 3, 537--576._ <br>
+_Illinois J. Math. **68** (2024), no. 3, 537-576._ <br>
 **Link:** [Journal](https://projecteuclid.org/journals/illinois-journal-of-mathematics/volume-68/issue-3/The-distribution-of-intermediate-prime-factors/10.1215/00192082-11417186.short) &nbsp;  [arXiV](https://arxiv.org/abs/2305.01117)
 
 11. Mean values of multiplicative functions and applications to residue-class distribution (with P. Pollack) <br>
@@ -64,12 +64,12 @@ _Submitted to Michigan Math. J._ <br>
 
 ## Manuscripts under preparation
 
-16. The Landau--Selberg--Delange method for products of Dirichlet $L$-functions and applications.
+16. The Landau-Selberg-Delange method for products of Dirichlet $L$-functions and applications.<br>
 _Link to most recent version_
 
-17. Distribution in residue classes of hybrid families of polynomially--defined additive and multiplicative functions.
+17. Distribution in residue classes of hybrid families of polynomially-defined additive and multiplicative functions. <br>
 _Link to most recent version:_
 
-18. Weighted equidistribution and mean values of multiplicative functions in twisted progressions
+18. Weighted equidistribution and mean values of multiplicative functions in twisted progressions <br>
 _Link to most recent version:_ 
 
