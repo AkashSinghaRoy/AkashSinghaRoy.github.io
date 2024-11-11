@@ -48,28 +48,28 @@ _Proc. Edinb. Math. Soc., recommended for acceptance subject to minor revisions_
 ## Submitted Papers
 12. Joint distribution in residue classes of families of polynomially-defined multiplicative functions I, 53 pages, <br>
 _Submitted to J. London Math. Soc._ <br>
-[Link to most recent version]
+**Link:** [Most recent version]()
 
 13. Joint distribution in residue classes of families of polynomially-defined multiplicative functions II, 31 pages, <br>
 _Submitted to Acta. Arith._ <br>
-[Link to most recent version]
+**Link:** [Most recent version]()
 
 14. Joint distribution in residue classes of families of polynomially-defined additive functions, 34 pages, <br>
 _Submitted to Math Z._ <br>
-[Link to most recent version]
+**Link:** [Most recent version]()
 
 15. Anatomical mean value bounds on  multiplicative functions and applications to the distribution of the sum of divisors, 34 pages, <br>
 _Submitted to Michigan Math. J._ <br>
-[Link to most recent version]
+**Link:** [Most recent version]()
 
 ## Manuscripts under preparation
 
 16. The Landau-Selberg-Delange method for products of Dirichlet $L$-functions and applications.<br>
-_Link to most recent version_
+**Link:** [Most recent version]()
 
 17. Distribution in residue classes of hybrid families of polynomially-defined additive and multiplicative functions. <br>
-_Link to most recent version:_
+**Link:** [Most recent version]()
 
 18. Weighted equidistribution and mean values of multiplicative functions in twisted progressions <br>
-_Link to most recent version:_ 
+**Link:** [Most recent version]()
 
