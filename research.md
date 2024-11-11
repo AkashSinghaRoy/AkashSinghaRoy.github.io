@@ -43,7 +43,7 @@ _Illinois J. Math. **68** (2024), no. 3, 537-576._ <br>
 
 11. Mean values of multiplicative functions and applications to residue-class distribution (with P. Pollack) <br>
 _Proc. Edinb. Math. Soc., recommended for acceptance subject to minor revisions_ <br>
-**Link:** [Most recent version]()
+**Link:** [Most recent version](MFBound_APhi1v2.pdf)
 
 ## Submitted Papers
 12. Joint distribution in residue classes of families of polynomially-defined multiplicative functions I, 53 pages, <br>
