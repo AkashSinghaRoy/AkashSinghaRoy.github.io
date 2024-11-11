@@ -64,7 +64,7 @@ _Submitted to Michigan Math. J._ <br>
 
 ## Manuscripts under preparation
 
-16. The Landau--Selberg--Delange method for products of \uppercase{D}irichlet $L$-functions and applications.
+16. The Landau--Selberg--Delange method for products of Dirichlet $L$-functions and applications.
 _Link to most recent version_
 
 17. Distribution in residue classes of hybrid families of polynomially--defined additive and multiplicative functions.
