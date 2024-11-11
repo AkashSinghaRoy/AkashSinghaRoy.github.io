@@ -10,11 +10,11 @@ _Michigan Math. J. **74** (2024), 143–166._ <br>
 
 3. Joint distribution in residue classes of polynomial-like multiplicative functions (with P. Pollack) <br> 
 _Acta Arith. **202** (2022), 89–104._ <br>
-**Link:** [Journal]() &nbsp;  [arXiV](https://arxiv.org/abs/2105.12854)
+**Link:** [Journal](https://www.impan.pl/en/publishing-house/journals-and-series/acta-arithmetica/all/202/1/114425/joint-distribution-in-residue-classes-of-polynomial-like-multiplicative-functions) &nbsp;  [arXiV](https://arxiv.org/abs/2105.12854)
 
 4. Powerfree sums of proper divisors (with P. Pollack) <br> 
 _Colloq. Math **168** (2022), 287–295._ <br>
-**Link:** [Journal]() &nbsp;  [arXiV](https://arxiv.org/abs/2106.14953)
+**Link:** [Journal](https://www.impan.pl/en/publishing-house/journals-and-series/colloquium-mathematicum/all/168/2/114505/powerfree-sums-of-proper-divisors) &nbsp;  [arXiV](https://arxiv.org/abs/2106.14953)
 
 5. Dirichlet, Sierpi\'nski, and Benford (with P. Pollack) <br>
 _J.Number Theory **239** (2022), 352–364._ <br>
@@ -22,28 +22,28 @@ _J.Number Theory **239** (2022), 352–364._ <br>
 
 6. On Benford's Law for multiplicative functions (with V. Chandee, X. Li and  P. Pollack) <br>
 _Proc. Amer. Math. Soc. **151** (2023), 4607–4619._ <br>
-**Link:** [Journal]() &nbsp;  [arXiV]()
+**Link:** [Journal](https://www.ams.org/journals/proc/2023-151-11/S0002-9939-2023-16480-1/?active=current) &nbsp;  [arXiV](https://arxiv.org/abs/2203.13117)
 
 7. Benford behavior and distribution in residue classes of large prime factors (with P. Pollack) <br>
 _Canad. Math. Bull. **66** (2023), 626–642._ <br>
-**Link:** [Journal]() &nbsp;  [arXiV]()
+**Link:** [Journal](https://www.cambridge.org/core/journals/canadian-mathematical-bulletin/article/benford-behavior-and-distribution-in-residue-classes-of-large-prime-factors/77F6DAF48EA54EF008AC5B8BE19C60B1)
 
 8. Distribution in coprime residue classes of polynomially-defined multiplicative functions (with P. Pollack) <br>
 _Math. Z. **303** (2023), no. 4, paper 93, 20 pages._ <br>
-**Link:** [Journal]() &nbsp;  [arXiV](https://arxiv.org/abs/2303.14600)
+**Link:** [Journal](https://link.springer.com/article/10.1007/s00209-023-03240-7) &nbsp;  [arXiV](https://arxiv.org/abs/2303.14600)
 
 9. Intermediate prime factors in specified subsets
 (with N. McNew and P. Pollack) <br>
 _Monatsh.~Math. **202** (2023), 837–855._ <br>
-**Link:** [Journal]() &nbsp;  [arXiV]()
+**Link:** [Journal](https://link.springer.com/article/10.1007/s00605-023-01855-w)
 
 10. The distribution of intermediate prime factors (with N. McNew and P. Pollack) <br>
 _Illinois J. Math. **68** (2024), no. 3, 537--576._ <br>
-**Link:** [Journal]() &nbsp;  [arXiV](https://arxiv.org/abs/2305.01117)
+**Link:** [Journal](https://projecteuclid.org/journals/illinois-journal-of-mathematics/volume-68/issue-3/The-distribution-of-intermediate-prime-factors/10.1215/00192082-11417186.short) &nbsp;  [arXiV](https://arxiv.org/abs/2305.01117)
 
 11. Mean values of multiplicative functions and applications to residue-class distribution (with P. Pollack) <br>
 _Proc. Edinb. Math. Soc., recommended for acceptance subject to minor revisions_ <br>
-**Link:** [Journal]() &nbsp;  [arXiV](https://arxiv.org/abs/2402.16266)
+**Link:** [Most recent version]()
 
 ## Submitted Papers
 12. Joint distribution in residue classes of families of polynomially-defined multiplicative functions I, 53 pages, <br>
