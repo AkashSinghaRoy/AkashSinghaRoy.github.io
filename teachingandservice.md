@@ -38,7 +38,7 @@ _Instructed by Prof.~Paul Pollack_
 1. Counselor in the Ross/Asia Mathematics program 2019. <br>
 _The Ross Program is a residential summer math camp for  high school students, primarily focused on algebra and number theory, where students are immersed in the process of mathematical discovery for six weeks. As a Counselor, my responsibility was to mentor the students by guiding their thinking and providing detailed feedback on their work; in addition, I also discussed several interesting mathematical problems with students  and gave several informal lectures._ <p>
 
-Received Exemplary Counselor Award "in recognition of outstanding work at the 2019 Ross/Asia Mathematics Program" and "showing exemplary dedication to the spirit of the Ross program". 
+   Received Exemplary Counselor Award "in recognition of outstanding work at the 2019 Ross/Asia Mathematics Program" and "showing     exemplary dedication to the spirit of the Ross program". 
 
 2. Served on committee for evaluating applications to the Ross Mathematics Program:  2020--2021.
 
