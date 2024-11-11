@@ -48,19 +48,19 @@ _Proc. Edinb. Math. Soc., recommended for acceptance subject to minor revisions_
 ## Submitted Papers
 12. Joint distribution in residue classes of families of polynomially-defined multiplicative functions I, 53 pages <br>
 _Submitted to J. London Math. Soc._ <br>
-**Link:** [Most recent version](JtMultEqd1)
+**Link:** [Most recent version](JtMultEqd1.pdf)
 
 13. Joint distribution in residue classes of families of polynomially-defined multiplicative functions II, 31 pages <br>
 _Submitted to Acta. Arith._ <br>
-**Link:** [Most recent version](JtMultEqd2)
+**Link:** [Most recent version](JtMultEqd2.pdf)
 
 14. Joint distribution in residue classes of families of polynomially-defined additive functions, 34 pages <br>
 _Submitted to Math Z._ <br>
-**Link:** [Most recent version](JtAddEqd)
+**Link:** [Most recent version](JtAddEqd.pdf)
 
 15. Anatomical mean value bounds on  multiplicative functions and applications to the distribution of the sum of divisors, 34 pages <br>
 _Submitted to Michigan Math. J._ <br>
-**Link:** [Most recent version]()
+**Link:** [Most recent version](MFBound_APhi1v2.pdf)
 
 ## Manuscripts under preparation
 
@@ -73,3 +73,13 @@ _Submitted to Michigan Math. J._ <br>
 18. Weighted equidistribution and mean values of multiplicative functions in twisted progressions <br>
 **Link:** [Most recent version]()
 
+# Recent Talks
+
+1. PAlmetto Number Theory Series (PANTS)  XXXVII: December 2023 <br>
+_Distribution in coprime residue classes of Euler’s totient and the sum of divisors_ &nbsp; [Slides]()
+
+2. University of Georgia Number Theory Seminar: April 2024 <br>
+_Joint distribution in residue classes of families of arithmetic functions_ &nbsp; [Slides]()
+
+3. Dartmouth College Algebra and Number Theory Seminar: November 2024 (upcoming) <br>
+_Equidistribution and mean values of families of multiplicative functions_
