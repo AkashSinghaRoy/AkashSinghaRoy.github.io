@@ -15,9 +15,9 @@ Akash.SinghaRoy@uga.edu<p>
  
 **Office:** Boyd Research and Education Center, 427J
 
-## Here is my [CV]().
+# [Curriculum Vitae]().
 
-# Research: [Publications, Preprints and Talks](https://akashsingharoy.github.io/research) 
+# [ResearchL Publications, Preprints and Talks](https://akashsingharoy.github.io/research) 
 
-# Teaching and Service: [Teaching and Service Work](https://akashsingharoy.github.io/teachingandservice)
+# [Teaching and Service](https://akashsingharoy.github.io/teachingandservice)
 
