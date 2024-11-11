@@ -1,4 +1,4 @@
-# Teaching and Service Work 
+# Teaching and Service 
 
 ## Refereeing
 Have refereed for
