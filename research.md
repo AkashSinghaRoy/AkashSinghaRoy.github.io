@@ -16,7 +16,7 @@ _Acta Arith. **202** (2022), 89–104._ <br>
 _Colloq. Math **168** (2022), 287–295._ <br>
 **Link:** [Journal](https://www.impan.pl/en/publishing-house/journals-and-series/colloquium-mathematicum/all/168/2/114505/powerfree-sums-of-proper-divisors) &nbsp;  [arXiV](https://arxiv.org/abs/2106.14953)
 
-5. Dirichlet, Sierpi\'nski, and Benford (with P. Pollack) <br>
+5. Dirichlet, Sierpinski, and Benford (with P. Pollack) <br>
 _J.Number Theory **239** (2022), 352–364._ <br>
 **Link:** [Journal](https://www.sciencedirect.com/science/article/abs/pii/S0022314X22000099)
 
