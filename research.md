@@ -73,13 +73,13 @@ _Submitted to Michigan Math. J._ <br>
 18. Weighted equidistribution and mean values of multiplicative functions in twisted progressions <br>
 **Link:** [Most recent version]()
 
-# Recent Talks
+# Recent Talks and Slides
 
 1. PAlmetto Number Theory Series (PANTS)  XXXVII: December 2023 <br>
-_Distribution in coprime residue classes of Euler’s totient and the sum of divisors_ &nbsp; [Slides]()
+_Distribution in coprime residue classes of Euler’s totient and the sum of divisors_ &nbsp; [Slides](PANTSFall23v4.pdf)
 
 2. University of Georgia Number Theory Seminar: April 2024 <br>
-_Joint distribution in residue classes of families of arithmetic functions_ &nbsp; [Slides]()
+_Joint distribution in residue classes of families of arithmetic functions_ &nbsp; [Slides](UGANTSemSpr24v4.pdf)
 
 3. Dartmouth College Algebra and Number Theory Seminar: November 2024 (upcoming) <br>
 _Equidistribution and mean values of families of multiplicative functions_
