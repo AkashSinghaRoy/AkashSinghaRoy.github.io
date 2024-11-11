@@ -1,5 +1,3 @@
-<title> Akash Singha Roy </title>
-
 # About
 Welcome! 
 
