@@ -34,7 +34,7 @@ _Math. Z. **303** (2023), no. 4, paper 93, 20 pages._ <br>
 
 9. Intermediate prime factors in specified subsets
 (with N. McNew and P. Pollack) <br>
-_Monatsh.~Math. **202** (2023), 837–855._ <br>
+_Monatsh. Math. **202** (2023), 837–855._ <br>
 **Link:** [Journal](https://link.springer.com/article/10.1007/s00605-023-01855-w)
 
 10. The distribution of intermediate prime factors (with N. McNew and P. Pollack) <br>
