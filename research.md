@@ -42,7 +42,7 @@ _Illinois J. Math. **68** (2024), no. 3, 537-576._ <br>
 **Link:** [Journal](https://projecteuclid.org/journals/illinois-journal-of-mathematics/volume-68/issue-3/The-distribution-of-intermediate-prime-factors/10.1215/00192082-11417186.short) &nbsp;  [arXiV](https://arxiv.org/abs/2305.01117)
 
 11. Mean values of multiplicative functions and applications to residue-class distribution (with P. Pollack) <br>
-Accepted for publication in _Proc. Edinb. Math. Soc._ <br>
+_Proc. Edinb. Math. Soc._, accepted for publication. <br>
 **Link:** [Most recent version](MFBound_APhi1v2.pdf)
 
 ## Submitted Papers
@@ -65,13 +65,10 @@ _Submitted to Michigan Math. J._ <br>
 ## Manuscripts under preparation
 
 16. The Landau-Selberg-Delange method for products of Dirichlet $L$-functions and applications.<br>
-**Link:** [Most recent version]()
 
 17. Distribution in residue classes of hybrid families of polynomially-defined additive and multiplicative functions. <br>
-**Link:** [Most recent version]()
 
 18. Weighted equidistribution and mean values of multiplicative functions in twisted progressions <br>
-**Link:** [Most recent version]()
 
 # Recent Talks and Slides
 
