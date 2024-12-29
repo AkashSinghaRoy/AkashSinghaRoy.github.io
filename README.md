@@ -3,7 +3,7 @@
 # About
 Welcome! 
 
-I am a final year PhD student in the Department of Mathematics at the [University of Georgia](https://www.math.uga.edu/), working under the direction of [Prof. Paul Pollack](https://pollack.uga.edu/). I completed my Bachelor of Science in Mathematics and Computer Science at the Chennai Mathematical Institute. 
+I am currently a final year PhD student in the Department of Mathematics at the [University of Georgia](https://www.math.uga.edu/). I am working under the direction of Prof. [Paul Pollack](https://www.math.uga.edu/), and hope to receive my PhD by April 2025. Hence, I am currently on the job market. I completed my undergraduate studies at the Chennai Mathematical Institute, where I obtained a BSc. Honors in Mathematics and Computer Science.
 
 ## Research Interests
 
