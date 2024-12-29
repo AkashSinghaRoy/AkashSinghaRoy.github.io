@@ -42,7 +42,7 @@ _Illinois J. Math. **68** (2024), no. 3, 537-576._ <br>
 **Link:** [Journal](https://projecteuclid.org/journals/illinois-journal-of-mathematics/volume-68/issue-3/The-distribution-of-intermediate-prime-factors/10.1215/00192082-11417186.short) &nbsp;  [arXiV](https://arxiv.org/abs/2305.01117)
 
 11. Mean values of multiplicative functions and applications to residue-class distribution (with P. Pollack) <br>
-_Proc. Edinb. Math. Soc., recommended for acceptance subject to minor revisions_ <br>
+Accepted for publication in _Proc. Edinb. Math. Soc._ <br>
 **Link:** [Most recent version](MFBound_APhi1v2.pdf)
 
 ## Submitted Papers
