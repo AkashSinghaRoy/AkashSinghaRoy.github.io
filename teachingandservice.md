@@ -6,7 +6,8 @@ Have refereed for
 
 2. Rose-Hulman Undergraduate Mathematics Journal.
 
-## Current teaching and service at UGA (Fall 2024) 
+## Teaching and service at UGA 
+### Fall 2024 
 1. Instructor of MATH 2250 (Calculus I) <br>
 _Flipped/hybrid classroom structure._
 
@@ -14,8 +15,6 @@ _Flipped/hybrid classroom structure._
 
 3. Committee for UGA High School Math Tournament 2024 <br>
 _Contributed several questions and was involved in the design of the contest._
-
-## Past teaching and service at UGA
 
 ### Spring 2024 
 4. Instructor of MATH 2250 (Calculus I) <br>
