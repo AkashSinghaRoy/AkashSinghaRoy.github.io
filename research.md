@@ -78,7 +78,12 @@ _Distribution in coprime residue classes of Euler’s totient and the sum of div
 2. University of Georgia Number Theory Seminar: April 2024 <br>
 _Joint distribution in residue classes of families of arithmetic functions_ &nbsp; [Slides](UGANTSemSpr24v4.pdf)
 
-3. Dartmouth College Algebra and Number Theory Seminar: November 2024 (upcoming) <br>
+3. Dartmouth College Algebra and Number Theory Seminar: November 2024 <br>
 _Equidistribution and mean values of families of multiplicative functions_ &nbsp; [Slides](DartmouthTalkFall2024_Final.pdf)
 
-4. AMS Spring Eastern Sectional Meeting 2025: “Counting and Asymptotics in Number Theory” (upcoming, April 2025)
+4. University of Waterloo, Number Theory Seminar: January 2025 <br>
+_Residue-class distribution and mean values of multiplicative functions_ &nbsp; [Slides](WaterlooTalk2025.pdf)
+
+5. Georgia Tech Number Theory Seminar: March 2025 (upcoming)
+   
+6. AMS Spring Eastern Sectional Meeting 2025: “Counting and Asymptotics in Number Theory” (upcoming, April 2025)
