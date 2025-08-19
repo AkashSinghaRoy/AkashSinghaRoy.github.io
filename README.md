@@ -6,7 +6,7 @@
 <!-- Drag and Drop does the following (but it is too large and cannot be resized): -->
 <!-- ![Image 1 for website width=10% height=10%](https://github.com/user-attachments/assets/d0d7d3e3-04f7-4e50-95f9-c2fc283086fb) -->
 
-<img src="https://github.com/Image1ForWebsite.png" width="250"/>
+<img src="https://github.com/Image1ForWebsite.jpg" width="250"/>
 
 
 # IMPORTANT UPDATE
