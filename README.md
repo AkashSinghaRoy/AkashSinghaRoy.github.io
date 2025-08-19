@@ -6,8 +6,11 @@
 <!-- Drag and Drop does the following (but it is too large and cannot be resized): -->
 <!-- ![Image 1 for website width=10% height=10%](https://github.com/user-attachments/assets/d0d7d3e3-04f7-4e50-95f9-c2fc283086fb) -->
 
-<img src="https://github.com/Image1ForWebsite.jpg" width="250"/>
+<!-- <img src="https://github.com/Image1ForWebsite.jpg" width="250"/> -->
 
+<p align="center">
+<img src="Image1ForWebsite.jpg" width="324" height="600">
+</p>
 
 # IMPORTANT UPDATE
 Starting from October 2025, I will be a postdoctoral fellow in the number theory research group [UFOCLAN](https://www1.karlin.mff.cuni.cz/~kala/web/ufoclan) at Charles University, Prague. My UGA directory page (https://www.math.uga.edu/directory/people/akash-singha-roy) may stop existing, so my most recent updates (especially research updates) will be present only on this website. My UGA email (Akash.SinghaRoy@uga.edu) will stop being valid within a few months as well, however I will continue to regularly check my permanent email: **akash01s.roy@gmail.com**.    
