@@ -9,7 +9,7 @@
 <!-- <img src="https://github.com/Image1ForWebsite.jpg" width="250"/> -->
 
 <p align="center">
-<img src="Image1ForWebsite.jpg" width="324" height="400">
+<img src="Image1ForWebsite.jpg" width="324"/>
 </p>
 
 # IMPORTANT UPDATE
