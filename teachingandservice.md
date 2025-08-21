@@ -2,9 +2,11 @@
 
 ## Refereeing
 Have refereed for
-1. Women in Numbers Europe 4 – Research Directions in Number Theory, Springer, Association for Women in Mathematics Series.
+1. Monatshefte fur Mathematik.
+   
+2. Women in Numbers Europe 4 – Research Directions in Number Theory, Springer, Association for Women in Mathematics Series.
 
-2. Rose-Hulman Undergraduate Mathematics Journal.
+3. Rose-Hulman Undergraduate Mathematics Journal.
 
 ## Teaching and service at UGA 
 ### Fall 2024 
