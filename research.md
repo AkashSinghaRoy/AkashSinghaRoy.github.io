@@ -85,12 +85,12 @@ _Equidistribution and mean values of families of multiplicative functions_ &nbsp
 4. University of Waterloo, Number Theory Seminar: January 2025 <br>
 _Residue-class distribution and mean values of multiplicative functions_ &nbsp; [Slides](WaterlooTalk2025.pdf)
 
-5. AMS Spring Eastern Sectional Meeting 2025: Special session on “Counting and Asymptotics in Number Theory”
+5. AMS Spring Eastern Sectional Meeting 2025: Special session on “Counting and Asymptotics in Number Theory” (April 2025) <br>
 _Joint distribution in residue classes of families of multiplicative functions_
 
-6. INTEGERS Conference 2025 at the University of Georgia: In Honor of the 80th Birthdays of Melvyn Nathanson and Carl Pomerance
+6. INTEGERS Conference 2025 at the University of Georgia: In Honor of the 80th Birthdays of Melvyn Nathanson and Carl Pomerance (May 2025) <br>
 _Joint distribution in residue classes of families of multiplicative functions_
-&nbsp; [Slides](INTEGERS2025Slides)
+&nbsp; [Slides](INTEGERS2025Slides.pdf)
 
-7. Combinatorial and Additive Number Theory CANT 2025
+7. Combinatorial and Additive Number Theory CANT 2025: May 2025 <br>
 _Joint distribution in residue classes of families of multiplicative functions_
