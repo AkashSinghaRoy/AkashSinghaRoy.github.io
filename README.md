@@ -13,7 +13,7 @@
 </p>
 
 # IMPORTANT UPDATE
-Starting from October 2025, I will be a postdoctoral fellow in the number theory research group [UFOCLAN](https://www1.karlin.mff.cuni.cz/~kala/web/ufoclan) at Charles University, Prague. My UGA directory page (https://www.math.uga.edu/directory/people/akash-singha-roy) _may_ stop existing, so my most recent updates (especially research updates) will be present only on this website. My UGA email (Akash.SinghaRoy@uga.edu) _will_ stop being valid within a few months, however I will continue to regularly check my permanent email: **akash01s.roy@gmail.com**.    
+Starting from **October 2025**, I will be a postdoctoral fellow in the number theory research group [UFOCLAN](https://www1.karlin.mff.cuni.cz/~kala/web/ufoclan) at Charles University, Prague. My UGA directory page (https://www.math.uga.edu/directory/people/akash-singha-roy) _may_ stop existing, so my most recent updates (especially research updates) will be present only on this website. My UGA email (Akash.SinghaRoy@uga.edu) _will_ stop being valid within a few months, however I will continue to regularly check my permanent email: **akash01s.roy@gmail.com**.    
 
 # About
 Welcome! 
@@ -28,9 +28,17 @@ As of July 2025, I have completed my Ph.D. in Mathematics at the [University of 
 
 My primary research interests lie in elementary, analytic and combinatorial number theory. In my Ph.D. thesis, I study the residue-class distribution of (families of) arithmetic functions to varying moduli: More precisely, I obtain new analogues of the Siegel-Walfisz theorem for large classes of additive and multiplicative functions, which are essentially optimal in many ways. This work blends ideas that could be thought of as being borrowed from probability (but executed via methods from the "anatomy of integers"), with machinery from linear algebra over rings (a.k.a. module theory), classical analytic number theory, character sums/exponential sums, commutative algebra, as well as arithmetic and algebraic geometry. 
 
-I am currently working on a variety of new projects. In one of these projects (which is almost complete!), I give new results on mean values of multiplicative functions that extend the classical Landau-Selberg-Delange "LSD" method to situations where the Dirichlet series under consideration is controlled by Dirichlet $L$-functions mod $q$ (instead of the usual Riemann zeta function); my results allow the conductor $q$ to vary within ranges that are typically _much wider_ than those permitted by known forms of the "LSD" method. More updates on other projects coming soon!
+I am currently working on a variety of new projects. In one of these projects (which is almost complete!), I give new results on mean values of multiplicative functions that extend the classical Landau-Selberg-Delange "LSD" method to situations where the Dirichlet series under consideration is controlled by Dirichlet $L$-functions mod $q$ (instead of the usual Riemann zeta function); my results allow the conductor $q$ to vary within ranges that are typically much wider than those permitted by known forms of the "LSD" method. More updates on other projects coming soon!
 
-Besides these, I have coauthored papers with [Vorrapan (Fai) Chandee](https://www.math.ksu.edu/~chandee/), [Xiannan Li](https://www.math.ksu.edu/~xiannan/), [Nathan McNew](https://www.nathanmcnew.com/) and [Paul Pollack](https://pollack.uga.edu/), on topics such as Benford's law (studying this phenomenon for various sequences of interest  such as Hecke eigenvalues of newforms), distributions of intermediate prime factors, and the behavior of the "aliquot sum" function $s(n)$. I am also interested in a variety of other questions on the anatomy of integers, Erdos-type problems and general statistical questions on distributions of arithmetic functions, including Fourier coefficients of modular forms and the partition function. 
+Besides these, I have coauthored papers with [Vorrapan (Fai) Chandee](https://www.math.ksu.edu/~chandee/), [Xiannan Li](https://www.math.ksu.edu/~xiannan/), [Nathan McNew](https://www.nathanmcnew.com/) and [Paul Pollack](https://pollack.uga.edu/), on topics such as 
+
+(i) Benford's law (studying this phenomenon for various sequences of interest  such as Hecke eigenvalues of newforms), 
+
+(ii) Distributions of intermediate prime factors, and 
+
+(iii) Behavior of the "aliquot sum" function $s(n)$. 
+
+I am also interested in a variety of other questions on the anatomy of integers, Erdos-type problems and general statistical questions on distributions of arithmetic functions, including Fourier coefficients of modular forms and the partition function. 
 
 <!-- Moreover, my work relies heavily on character sums and exponential sums, and many of the questions I have worked on and am working on have interesting analogues in the realms of $L$-functions, modular forms (and more generally automorphic forms), probability and probabilistic number theory. As part of my research, I have used multiple mathematical software packages such as Sage, Pari/GP, Macaulay2, and Magma.-->
 
