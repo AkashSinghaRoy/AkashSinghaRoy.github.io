@@ -45,22 +45,23 @@ _Illinois J. Math. **68** (2024), no. 3, 537-576._ <br>
 _Proc. Edinb. Math. Soc._, accepted for publication. <br>
 **Link:** [Most recent version](MFBound_APhi1v2.pdf)
 
+12. Anatomical mean value bounds on  multiplicative functions and the distribution of the sum of divisors, 34 pages <br>
+_Michigan Math. J._, accepted for publication. <br>
+**Link:** [Most recent version](MFBound2_SigmaEqd.pdf)
+
 ## Submitted Papers
-12. Joint distribution in residue classes of families of polynomially-defined multiplicative functions I, 53 pages <br>
-_Submitted to J. London Math. Soc._ <br>
-**Link:** [Most recent version](JtMultEqd1.pdf)
-
-13. Joint distribution in residue classes of families of polynomially-defined multiplicative functions II, 31 pages <br>
-_Submitted to Acta. Arith._ <br>
-**Link:** [Most recent version](JtMultEqd2.pdf)
-
-14. Joint distribution in residue classes of families of polynomially-defined additive functions, 34 pages <br>
+13. Joint distribution in residue classes of families of polynomially-defined additive functions, 34 pages <br>
 _Submitted to Math Z._ <br>
 **Link:** [Most recent version](JtAddEqd.pdf)
 
-15. Anatomical mean value bounds on  multiplicative functions and the distribution of the sum of divisors, 34 pages <br>
-_Submitted to Michigan Math. J._ <br>
-**Link:** [Most recent version](MFBound2_SigmaEqd.pdf)
+14. Joint distribution in residue classes of families of polynomially-defined multiplicative functions I, 53 pages <br>
+_Submitted to J. London Math. Soc._ <br>
+**Link:** [Most recent version](JtMultEqd1.pdf)
+
+15. Joint distribution in residue classes of families of polynomially-defined multiplicative functions II, 31 pages <br>
+_Submitted to Acta. Arith._ <br>
+**Link:** [Most recent version](JtMultEqd2.pdf)
+
 
 ## Manuscripts under preparation
 
@@ -84,6 +85,12 @@ _Equidistribution and mean values of families of multiplicative functions_ &nbsp
 4. University of Waterloo, Number Theory Seminar: January 2025 <br>
 _Residue-class distribution and mean values of multiplicative functions_ &nbsp; [Slides](WaterlooTalk2025.pdf)
 
-5. Georgia Tech Number Theory Seminar: March 2025 (upcoming)
-   
-6. AMS Spring Eastern Sectional Meeting 2025: “Counting and Asymptotics in Number Theory” (upcoming, April 2025)
+5. AMS Spring Eastern Sectional Meeting 2025: Special session on “Counting and Asymptotics in Number Theory”
+_Joint distribution in residue classes of families of multiplicative functions_
+
+6. INTEGERS Conference 2025 at the University of Georgia: In Honor of the 80th Birthdays of Melvyn Nathanson and Carl Pomerance
+_Joint distribution in residue classes of families of multiplicative functions_
+&nbsp; [Slides](INTEGERS2025Slides)
+
+7. Combinatorial and Additive Number Theory CANT 2025
+_Joint distribution in residue classes of families of multiplicative functions_
