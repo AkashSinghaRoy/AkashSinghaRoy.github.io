@@ -57,7 +57,7 @@ _Submitted to Math Z._ <br>
 **Link:** [Most recent version](JtAddEqd.pdf)
 
 14. Joint distribution in residue classes of families of polynomially-defined multiplicative functions I, 53 pages <br>
-_Submitted to J. London Math. Soc._ <br>
+_Submitted to Int. Math. Res. Not._ <br>
 **Link:** [Most recent version](JtMultEqd1.pdf)
 
 15. Joint distribution in residue classes of families of polynomially-defined multiplicative functions II, 31 pages <br>
