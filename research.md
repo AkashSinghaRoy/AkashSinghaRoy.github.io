@@ -1,4 +1,6 @@
 # Research: Publications, Preprints and Talks
+## [PhD Dissertation](AkashSRoyDISSERTATION.pdf) 
+
 ## Published and Accepted Works  
 
 1. Steps into analytic number theory: A problem-based introduction (with P. Pollack)<br>
