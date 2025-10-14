@@ -47,20 +47,20 @@ _Illinois J. Math. **68** (2024), no. 3, 537-576._ <br>
 _Proc. Edinb. Math. Soc._, accepted for publication. <br>
 **Link:** [Most recent version](MFBound_APhi1v2.pdf)
 
-12. Anatomical mean value bounds on  multiplicative functions and the distribution of the sum of divisors, 34 pages <br>
+12. Anatomical mean value bounds on  multiplicative functions and the distribution of the sum of divisors <br>
 _Michigan Math. J._, accepted for publication. <br>
 **Link:** [Most recent version](MFBound2_SigmaEqd.pdf)
 
 ## Submitted Papers
-13. Joint distribution in residue classes of families of polynomially-defined additive functions, 34 pages <br>
+13. Joint distribution in residue classes of families of polynomially-defined additive functions <br>
 _Submitted to Math Z._ <br>
 **Link:** [Most recent version](JtAddEqd.pdf)
 
-14. Joint distribution in residue classes of families of polynomially-defined multiplicative functions I, 53 pages <br>
+14. Joint distribution in residue classes of families of polynomially-defined multiplicative functions I <br>
 _Submitted to Int. Math. Res. Not._ <br>
 **Link:** [Most recent version](JtMultEqd1.pdf)
 
-15. Joint distribution in residue classes of families of polynomially-defined multiplicative functions II, 31 pages <br>
+15. Joint distribution in residue classes of families of polynomially-defined multiplicative functions II <br>
 _Submitted to Acta. Arith._ <br>
 **Link:** [Most recent version](JtMultEqd2.pdf)
 
