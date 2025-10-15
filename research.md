@@ -73,7 +73,7 @@ _Submitted to Acta. Arith._ <br>
 17. Distribution in residue classes of hybrid families of polynomially-defined additive and multiplicative functions. <br>
 
 18. Mean values of multiplicative functions in (generalized) progressions. <br>
-    <!--Weighted equidistribution and mean values of multiplicative functions in twisted progressions <br>>
+    <!--Weighted equidistribution and mean values of multiplicative functions in twisted progressions >
 
 # Recent Talks and Slides
 
