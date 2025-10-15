@@ -65,7 +65,7 @@ _Submitted to Acta. Arith._ <br>
 **Link:** [Most recent version](JtMultEqd2.pdf)
 
 16. The Landau-Selberg-Delange method for products of Dirichlet $L$-functions and applications.<br>
-**Link:** [Most recent version](LFunctionsLSD.pdf)
+**Link:** [Most recent version](L_functionsLSD.pdf)
 
 
 ## Manuscripts under preparation
