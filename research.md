@@ -75,7 +75,7 @@ _Submitted to Acta. Arith._ <br>
 18. Mean values of multiplicative functions in (generalized) progressions. <br>
     <!--Weighted equidistribution and mean values of multiplicative functions in twisted progressions >
 
-# Recent Talks and Slides
+## Recent Talks and Slides
 
 1. PAlmetto Number Theory Series (PANTS)  XXXVII: December 2023 <br>
 _Distribution in coprime residue classes of Euler’s totient and the sum of divisors_ &nbsp; [Slides](PANTSFall23v4.pdf)
