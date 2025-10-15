@@ -51,7 +51,7 @@ _Proc. Edinb. Math. Soc._, accepted for publication. <br>
 _Michigan Math. J._, accepted for publication. <br>
 **Link:** [Most recent version](MFBound2_SigmaEqd.pdf)
 
-## Submitted Papers
+## Completed/Submitted Papers
 13. Joint distribution in residue classes of families of polynomially-defined additive functions <br>
 _Submitted to Math Z._ <br>
 **Link:** [Most recent version](JtAddEqd.pdf)
@@ -64,14 +64,16 @@ _Submitted to Int. Math. Res. Not._ <br>
 _Submitted to Acta. Arith._ <br>
 **Link:** [Most recent version](JtMultEqd2.pdf)
 
+16. The Landau-Selberg-Delange method for products of Dirichlet $L$-functions and applications.<br>
+**Link:** [Most recent version](LFunctionsLSD.pdf)
+
 
 ## Manuscripts under preparation
 
-16. The Landau-Selberg-Delange method for products of Dirichlet $L$-functions and applications.<br>
-
 17. Distribution in residue classes of hybrid families of polynomially-defined additive and multiplicative functions. <br>
 
-18. Weighted equidistribution and mean values of multiplicative functions in twisted progressions <br>
+18. Mean values of multiplicative functions in (generalized) progressions. <br>
+    <!--Weighted equidistribution and mean values of multiplicative functions in twisted progressions <br>>
 
 # Recent Talks and Slides
 
