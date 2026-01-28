@@ -13,7 +13,7 @@
 </p>
 
 # IMPORTANT UPDATE
-Starting from **October 2025**, I will be a postdoctoral fellow in the number theory research group [UFOCLAN](https://www1.karlin.mff.cuni.cz/~kala/web/ufoclan) at Charles University, Prague. My [UGA directory page](https://www.math.uga.edu/directory/people/akash-singha-roy) _may_ stop existing, so my most recent updates (especially research updates) will be present only on this website. My UGA email (Akash.SinghaRoy@uga.edu) _will_ stop being valid within a few months, however I will continue to regularly check my permanent email: **akash01s.roy@gmail.com**.    
+Starting from **October 2025**, I will be a postdoctoral fellow in the number theory research group [UFOCLAN](https://www1.karlin.mff.cuni.cz/~kala/web/ufoclan) at Charles University, Prague. My [UGA directory page](https://www.math.uga.edu/directory/people/akash-singha-roy) _may_ stop existing, so my most recent updates (especially research updates) will be present only on this website. My UGA email (Akash.SinghaRoy@uga.edu) _will_ stop existing at any point, however I will continue to regularly check my permanent email: **akash01s.roy@gmail.com**.    
 
 # About
 Welcome! 
