@@ -17,7 +17,7 @@
 # About
 Welcome! 
 
-I am a postdoctoral researcher in the number theory research group [UFOCLAN](https://www1.karlin.mff.cuni.cz/~kala/web/ufoclan) at Charles University, Prague. I completed my Ph.D. in Mathematics (August 2022-July 2025) at the [University of Georgia](https://www.math.uga.edu/) under the direction of [Paul Pollack](https://pollack.uga.edu/). I completed my undergraduate studies (August 2018-July 2021) at the Chennai Mathematical Institute, where I obtained a BSc. Honors in Mathematics and Computer Science.
+I am a postdoctoral researcher in the number theory research group [UFOCLAN](https://www1.karlin.mff.cuni.cz/~kala/web/ufoclan) at Charles University, Prague. I completed my Ph.D. in Mathematics (August 2022-July 2025) at the [University of Georgia](https://www.math.uga.edu/) (UGA) under the direction of [Paul Pollack](https://pollack.uga.edu/). I completed my undergraduate studies (August 2018-July 2021) at the Chennai Mathematical Institute, where I obtained a BSc. Honors in Mathematics and Computer Science.
 
 ## Research Interests
 
@@ -43,9 +43,9 @@ I am also interested in a variety of other questions on the anatomy of integers,
 
 <!--I have recently received the [2026 Graduate Student Excellence-in-Research Award](https://news.uga.edu/2026-graduate-school-student-awards/) in the Mathematical and Physical Sciences category: This is a University-wide award recognizing doctoral research achievement and scholarly impact among all disciplines in this category. More general information on this award may be found [here](https://research.uga.edu/research-awards/graduate-student-excellence-in-research-award/); since its inception in 1999, the [previous recipients](https://www.math.uga.edu/awards-given-graduate-students) of this award from mathematics have been in the years 2003, 2005 and 2016.--> 
 
-I have recently received the [2026 Graduate Student Excellence-in-Research Award](https://news.uga.edu/2026-graduate-school-student-awards/) in the Mathematical and Physical Sciences category. This is a University-wide award recognizing doctoral research and scholarly impact, presented annually to a single student across all disciplines in this category. More general information on this award may be found [here](https://research.uga.edu/research-awards/graduate-student-excellence-in-research-award/); since its inception in 1999, a [mathematics student has received this award in 2003, 2005, and 2016](https://www.math.uga.edu/awards-given-graduate-students).
+I received the [2026 UGA Graduate Student Excellence-in-Research Award](https://news.uga.edu/2026-graduate-school-student-awards/) in the Mathematical and Physical Sciences category. This University-wide award recognizes doctoral research and scholarly impact, and is presented annually to a single student across all disciplines in this category. More general information may be found [here](https://research.uga.edu/research-awards/graduate-student-excellence-in-research-award/). Since its inception in 1999, a [mathematics student has received this award in 2003, 2005, and 2016](https://www.math.uga.edu/awards-given-graduate-students).
 
-I am the 2024 recipient of the [William Armor Wills Memorial Scholarship Award](https://www.math.uga.edu/awards-given-graduate-students) from the Department of Mathematics at the University of Georgia.
+I am the 2024 recipient of the [William Armor Wills Memorial Scholarship Award](https://www.math.uga.edu/awards-given-graduate-students) from the Department of Mathematics at UGA.
 
 ## Contact Information
 
