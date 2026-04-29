@@ -97,3 +97,12 @@ _Joint distribution in residue classes of families of multiplicative functions_
 
 7. Combinatorial and Additive Number Theory CANT 2025: May 2025 <br>
 _Joint distribution in residue classes of families of multiplicative functions_
+
+8.  ELAZ 2026, Conference on elementary and analytic number theory: February 2026 <br>
+_The Landau-Selberg-Delange method for Dirichlet L-functions, and applications_ &nbsp; [Slides](ELAZ2026Slides.pdf)
+
+9. Charles University (Univerzita Karlova) Number Theory Seminar: March 2026 <br>
+_The Landau-Selberg-Delange method for Dirichlet L-functions, and applications_ &nbsp; [Slides](Charles2026Slides.pdf)
+
+10. Simons Summer School and Workshop on Discrete Harmonic Analysis and Analytic Number Theory: May 2026 <br>
+_The Landau-Selberg-Delange method for Dirichlet L-functions, and applications_
