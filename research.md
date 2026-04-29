@@ -87,7 +87,7 @@ _Joint distribution in residue classes of families of “polynomially-defined”
 _Distribution and mean values of families of multiplicative functions in arithmetic progressions_ &nbsp; [Slides](DartmouthTalkFall2024_Final.pdf)
 <!--_Equidistribution and mean values of families of multiplicative functions_-->
 
-4. [University of Waterloo, Number Theory Seminar](https://uwaterloo.ca/pure-mathematics/events/number-theory-seminar-136) (January 2025) <br>
+4. [University of Waterloo Number Theory Seminar](https://uwaterloo.ca/pure-mathematics/events/number-theory-seminar-136) (January 2025) <br>
 _Residue-class distribution and mean values of multiplicative functions_ &nbsp; [Slides](WaterlooTalk2025.pdf)
 
 5. [AMS Spring Eastern Sectional Meeting 2025](https://www.ams.org/meetings/sectional/2320_program.html): Special session on “[Counting and Asymptotics in Number Theory](https://www.ams.org/meetings/sectional/2320_program_ss8.html#title)” (April 2025) <br>
