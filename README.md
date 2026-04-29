@@ -12,13 +12,12 @@
 <img src="Image1ForWebsite.jpg" width="324"/>
 </p>
 
-# IMPORTANT UPDATE
-Starting from **October 2025**, I will be a postdoctoral fellow in the number theory research group [UFOCLAN](https://www1.karlin.mff.cuni.cz/~kala/web/ufoclan) at Charles University, Prague. My [UGA directory page](https://www.math.uga.edu/directory/people/akash-singha-roy) _may_ stop existing, so my most recent updates (especially research updates) will be present only on this website. My UGA email (Akash.SinghaRoy@uga.edu) _will_ stop existing at any point, however I will continue to regularly check my permanent email: **akash01s.roy@gmail.com**.    
+<!-- Starting from **October 2025**, I will be a postdoctoral fellow in the number theory research group [UFOCLAN](https://www1.karlin.mff.cuni.cz/~kala/web/ufoclan) at Charles University, Prague. My [UGA directory page](https://www.math.uga.edu/directory/people/akash-singha-roy) _may_ stop existing, so my most recent updates (especially research updates) will be present only on this website. My UGA email (Akash.SinghaRoy@uga.edu) _will_ stop existing at any point, however I will continue to regularly check my permanent email: **akash01s.roy@gmail.com**. --> 
 
 # About
 Welcome! 
 
-As of July 2025, I have completed my Ph.D. in Mathematics at the [University of Georgia](https://www.math.uga.edu/) under the direction of [Paul Pollack](https://pollack.uga.edu/). I completed my undergraduate studies at the Chennai Mathematical Institute in July 2021, where I obtained a BSc. Honors in Mathematics and Computer Science.
+I am a postdoctoral researcher in the number theory research group [UFOCLAN](https://www1.karlin.mff.cuni.cz/~kala/web/ufoclan) at Charles University, Prague. I completed my Ph.D. in Mathematics (August 2022-July 2025) at the [University of Georgia](https://www.math.uga.edu/) under the direction of [Paul Pollack](https://pollack.uga.edu/). I completed my undergraduate studies (August 2018-July 2021) at the Chennai Mathematical Institute, where I obtained a BSc. Honors in Mathematics and Computer Science.
 
 ## Research Interests
 
@@ -42,14 +41,17 @@ I am also interested in a variety of other questions on the anatomy of integers,
 
 <!-- Moreover, my work relies heavily on character sums and exponential sums, and many of the questions I have worked on and am working on have interesting analogues in the realms of $L$-functions, modular forms (and more generally automorphic forms), probability and probabilistic number theory. As part of my research, I have used multiple mathematical software packages such as Sage, Pari/GP, Macaulay2, and Magma.-->
 
-I am the 2024 recipient of the William Armor Wills Memorial Scholarship Award from the Department of Mathematics at the University of Georgia.
+I have recently received the [2026 Graduate Student Excellence-in-Research Award](https://research.uga.edu/research-awards/graduate-student-excellence-in-research-award/) in the Mathematical and Physical Sciences, a University-wide award recognizing doctoral research achievement and scholarly impact; I am the fourth recipient of this award from the Department of Mathematics, since its inception in 1999. I am the 2024 recipient of the [William Armor Wills Memorial Scholarship Award](https://www.math.uga.edu/awards-given-graduate-students) from the Department of Mathematics at the University of Georgia.
 
 ## Contact Information
 
 **Email:**<br>
 akash01s.roy@gmail.com
 
-# [Curriculum Vitae](AkashSRoyCV20Aug25.pdf)
+**Previous emails (NO LONGER IN USE):**<br>
+akash.singharoy@uga.edu
+
+# [Curriculum Vitae](AkashSRoy_CVWebsite_Mar26.pdf)
 
 # [Research: Publications, Preprints and Talks](https://akashsingharoy.github.io/research) 
 
