@@ -9,6 +9,15 @@ Have refereed for
 3. [Rose-Hulman Undergraduate Mathematics Journal](https://scholar.rose-hulman.edu/rhumj/)
 
 ## Teaching and service at UGA 
+### Spring 2025
+1. Math Study Hall tutor
+
+2. Grader for MATH 4010/6010 (Modern Algebra II) <br>
+_Instructed by Prof. Nate Harman_
+
+3. Grader for MATH 3000 (Introduction to Linear Algebra) <br>
+_Instructed by Prof. Joseph H. G. Fu_
+
 ### Fall 2024 
 1. Instructor of MATH 2250 (Calculus I) <br>
 _Flipped/hybrid classroom structure._
