@@ -2,11 +2,11 @@
 
 ## Refereeing
 Have refereed for
-1. Monatshefte fur Mathematik.
+1. [Monatshefte fur Mathematik](https://link.springer.com/journal/605)
    
-2. Women in Numbers Europe 4 – Research Directions in Number Theory, Springer, Association for Women in Mathematics Series.
+2. [Women in Numbers Europe 4 – Research Directions in Number Theory](https://womeninnumbertheory.org/women-in-numbers-europe-iv-research-directions-in-number-theory/), Springer, Association for Women in Mathematics Series.
 
-3. Rose-Hulman Undergraduate Mathematics Journal.
+3. [Rose-Hulman Undergraduate Mathematics Journal](https://scholar.rose-hulman.edu/rhumj/)
 
 ## Teaching and service at UGA 
 ### Fall 2024 
