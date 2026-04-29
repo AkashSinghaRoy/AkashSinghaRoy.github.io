@@ -79,7 +79,7 @@ _Submitted to Acta. Arith._ <br>
 1. [PAlmetto Number Theory Series (PANTS)  XXXVII](https://sites.google.com/view/pants2023atuga/home) (December 2023) <br>
 _Distribution in coprime residue classes of Euler’s totient and the sum of divisors_ &nbsp; [Slides](PANTSFall23v4.pdf)
 
-2. [University of Georgia Number Theory Seminar](https://www.math.uga.edu/departmental-calendar-all-seminars) (April 2024) <br>
+2. [University of Georgia Number Theory/Arithmetic Geometry Seminar](https://www.math.uga.edu/departmental-calendar-all-seminars) (April 2024) <br>
 _Joint distribution in residue classes of families of “polynomially-defined” multiplicative functions_ &nbsp; [Slides](UGANTSemSpr24v4.pdf)
 <!--_Joint distribution in residue classes of families of arithmetic functions_-->
 
