@@ -91,7 +91,7 @@ _Distribution and mean values of families of multiplicative functions in arithme
 _Residue-class distribution and mean values of multiplicative functions_ &nbsp; [Slides](WaterlooTalk2025.pdf)
 
 5. [AMS Spring Eastern Sectional Meeting 2025](https://www.ams.org/meetings/sectional/2320_program.html): Special session on [Counting and Asymptotics in Number Theory](https://www.ams.org/meetings/sectional/2320_program_ss8.html#title) (April 2025) <br>
-_Joint distribution in residue classes of families of multiplicative functions_
+_Distribution in residue classes of families of multiplicative functions_
 
 6. [INTEGERS Conference 2025](https://sites.google.com/view/integersconference2025) at the University of Georgia: In Honor of the 80th Birthdays of [Melvyn Nathanson](https://en.wikipedia.org/wiki/Melvyn_B._Nathanson) and [Carl Pomerance](https://en.wikipedia.org/wiki/Carl_Pomerance) (May 2025) <br>
 _Joint distribution in residue classes of families of multiplicative functions_
