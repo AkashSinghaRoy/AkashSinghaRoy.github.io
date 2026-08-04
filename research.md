@@ -57,11 +57,13 @@ _Submitted to Math Z._ <br>
 **Link:** [Most recent version](JtAddEqd.pdf)
 
 14. Joint distribution in residue classes of families of multiplicative functions I <br>
-<!--_Submitted to Int. Math. Res. Not._> _Submitted_ <br>
+<!--_Submitted to Int. Math. Res. Not._> 
+_Submitted_ <br>
 **Link:** [Most recent version](JtMultEqd1.pdf)
 
 15. Joint distribution in residue classes of families of polynomially-defined multiplicative functions II <br>
-<!--_Submitted to Acta. Arith._>  _Submitted_ <br>
+<!--_Submitted to Acta. Arith._> 
+_Submitted_ <br>
 **Link:** [Most recent version](JtMultEqd2.pdf)
 
 16. The Landau-Selberg-Delange method for products of Dirichlet $L$-functions, and applications, I.<br>
