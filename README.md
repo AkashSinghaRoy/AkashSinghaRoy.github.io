@@ -69,7 +69,7 @@ akash.singharoy@uga.edu
 
 <!--# [Research: Publications, Preprints and Talks](https://akashsingharoy.github.io/research) -->
 
-# [Publications and preprints organized by chronology of completion](https://akashsingharoy.github.io/research)
+# [Papers](https://akashsingharoy.github.io/research)
 
 # [Talks](https://akashsingharoy.github.io/Talks)
 
