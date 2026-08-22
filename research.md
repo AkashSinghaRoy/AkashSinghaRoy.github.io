@@ -90,5 +90,3 @@ _This is a completely rewritten version of Manuscript 15.1, which immensely simp
 
 20. Mean values of multiplicative functions in generalized progressions. <br>
 
-12. [International Conference on Probability Theory and Number Theory](https://www.numbertheory.lt/) (September 2026) <br>
-
