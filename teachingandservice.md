@@ -3,10 +3,16 @@
 ## Refereeing
 Have refereed for
 1. [Monatshefte fur Mathematik](https://link.springer.com/journal/605)
-   
-2. [Women in Numbers Europe 4 – Research Directions in Number Theory](https://womeninnumbertheory.org/women-in-numbers-europe-iv-research-directions-in-number-theory/), Springer, Association for Women in Mathematics Series.
 
-3. [Rose-Hulman Undergraduate Mathematics Journal](https://scholar.rose-hulman.edu/rhumj/)
+2. [Acta Arithmetica](https://www.impan.pl/en/publishing-house/journals-and-series/acta-arithmetica)
+
+3. [Research in Number Theory](https://link.springer.com/journal/40993)
+   
+4. [Women in Numbers Europe 4 – Research Directions in Number Theory](https://womeninnumbertheory.org/women-in-numbers-europe-iv-research-directions-in-number-theory/), Springer, Association for Women in Mathematics Series.
+
+5. [Open Mathematics](https://www.degruyterbrill.com/journal/key/math/html?srsltid=AfmBOopPJjNxtNcopvy6kmSKjhIxkXymiRRySQXFnkgaMcpihmfroJfb)
+
+6. [Rose-Hulman Undergraduate Mathematics Journal](https://scholar.rose-hulman.edu/rhumj/)
 
 ## Teaching and service at UGA 
 ### Spring 2025
