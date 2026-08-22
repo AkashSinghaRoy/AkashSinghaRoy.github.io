@@ -80,13 +80,13 @@ _This is a completely rewritten version of Manuscript 15 in the subsection "Augu
 16\. The Landau-Selberg-Delange method for products of Dirichlet $L$-functions, and applications, I. <br>
 **Link:** [Most recent version](L_functionsLSD.pdf)
 
-17. The Furstenberg-Sárközy theorem for sums of an even number of odd powers. <br>
+17\. The Furstenberg-Sárközy theorem for sums of an even number of odd powers. <br>
 **Link:** _Coming soon_
     
 ## Manuscripts under preparation
-18. The Landau-Selberg-Delange method for products of Dirichlet $L$-functions, and applications, II. <br>
+18\. The Landau-Selberg-Delange method for products of Dirichlet $L$-functions, and applications, II. <br>
 
-19. Distribution in residue classes of hybrid families of polynomially-defined additive and multiplicative functions. <br>
+19\. Distribution in residue classes of hybrid families of polynomially-defined additive and multiplicative functions. <br>
 
-20. Mean values of multiplicative functions in generalized progressions. <br>
+20\. Mean values of multiplicative functions in generalized progressions. <br>
 
