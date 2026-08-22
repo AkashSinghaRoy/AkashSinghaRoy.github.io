@@ -66,7 +66,7 @@ _This is an older version of the manuscript which was used in my PhD thesis; a c
 _This is an older version of the manuscript which was used in my PhD thesis; a completely rewritten version can be found in the subsection "November 2025+ (Postdoctoral research)" below._ <br>
 **Link:** [Link to older version](JtMultEqd2.pdf)
 
-## [PhD Dissertation](AkashSRoyDISSERTATION.pdf)
+ [**PhD Dissertation**](AkashSRoyDISSERTATION.pdf)
 
 ## November 2025+ (Postdoctoral research)
 14. Joint distribution in residue classes of families of multiplicative functions I, _Submitted_ <!--_Submitted to Int. Math. Res. Not.--> <br>
