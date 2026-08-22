@@ -1,4 +1,4 @@
-#Talks organized by chronology
+# Talks organized by chronology
 
 1. [PAlmetto Number Theory Series (PANTS)  XXXVII](https://sites.google.com/view/pants2023atuga/home) (December 2023) <br>
 _Distribution in coprime residue classes of Euler’s totient and the sum of divisors_ &nbsp; [Slides](PANTSFall23v4.pdf)
