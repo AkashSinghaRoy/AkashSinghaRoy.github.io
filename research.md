@@ -2,7 +2,7 @@
 
 # Manuscripts organized by chronology of completion
 ## August 2020-January 2021
-1. Steps into analytic number theory: A problem-based introduction (with P. Pollack)<br>
+1\. Steps into analytic number theory: A problem-based introduction (with P. Pollack)<br>
 _Springer, Problem Books in Mathematics._
 
 <!---## Published and Accepted Works-->
