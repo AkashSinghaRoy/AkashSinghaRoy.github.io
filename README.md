@@ -25,7 +25,7 @@ I am a postdoctoral researcher in the number theory research group [UFOCLAN](htt
 
 <!-- My primary research interests lie in elementary, analytic and combinatorial number theory. In my thesis, I obtain new results on the distribution in arithmetic progressions of values taken by arithmetic functions: This was born out of a series of joint papers with [my advisor](https://pollack.uga.edu/) and his former student Dr. [Noah Lebowitz-Lockard](https://noahlockard.wordpress.com/), -- where we had set out to investigate analogues of the Siegel-Walfisz theorem for large classes of additive and multiplicative functions as well as for the joint distribution of families consisting of such functions, -- and recently culminated in three solo papers obtaining some of the best possible results in this direction.-->
 
-My primary research interests lie in elementary, analytic and combinatorial number theory, more precisely in: <br>
+My primary research interests lie in elementary, analytic and combinatorial number theory, more precisely in: 
 1. Distributions of arithmetic functions: Value distributions in residue classes, Benford's Law (Benford behavior of sequences), Erd\H{o}s--Kac theorem and extensions etc. <br>
 2. Multiplicative Number Theory: Mean values of multiplicative functions and mean values along arithmetic progressions. <br>
 3. Anatomy of integers and sieve theory. <br>
