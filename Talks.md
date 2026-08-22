@@ -30,7 +30,8 @@ _The Landau-Selberg-Delange method for Dirichlet L-functions, and applications_ 
 9. [Charles University (Univerzita Karlova) Number Theory Seminar](https://sites.google.com/view/shman/number-theory-seminar-2025-26) (March 2026) <br>
 _The Landau-Selberg-Delange method for Dirichlet L-functions, and applications_ &nbsp; [Slides](Charles2026Slides.pdf) <!--[Slides Version 2](LfuncLSDTalk50Min.pdf)-->
 
-10. [Simons Summer School and Workshop on Discrete Harmonic Analysis and Analytic Number Theory](https://site.pheedloop.com/event/Workshopondiscreteharmonicanalysisandanalyticnumbertheory/home) (May 2026) <br>
+10. [Simons Summer School and Workshop on Discrete Harmonic Analysis and Analytic Number Theory](https://erdoscenter.renyi.hu/events/simons-school-discrete-harmonic-analysis-and-analytic-number-theory) (May 2026) <br> 
+[Link to program](https://site.pheedloop.com/event/summerschooldiscreteharmonicanalysisandanalyticnumbertheory/home/) <br>
 _The Landau-Selberg-Delange method for Dirichlet L-functions, and applications_ &nbsp; [Slides](ASRSimonsSummerTalk.pdf)
 
 11. [FOUVRY 73 (a FOUr-week Voyage thRough analYtic number 7h3ory) Summer School](https://bernoulli.epfl.ch/programs/fouvry-73/) (August 2026) <br>
