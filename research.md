@@ -1,11 +1,13 @@
-# Research: Publications, Preprints and Talks
-## [PhD Dissertation](AkashSRoyDISSERTATION.pdf) 
+<!--- # Research: Publications, Preprints and Talks -->
 
-## Published and Accepted Works  
-
+# Publications and preprints organized by chronology of completion
+## August 2020-January 2021
 1. Steps into analytic number theory: A problem-based introduction (with P. Pollack)<br>
-_Springer, Problem Books in Mathematics._  
+_Springer, Problem Books in Mathematics._
 
+<!---## Published and Accepted Works-->
+
+## January-July 2021 (Undergraduate research) 
 2. Distribution mod $p$ of Euler's totient and the sum of proper divisors (with N. Lebowitz-Lockard and P. Pollack)<br>
 _Michigan Math. J. **74** (2024), 143–166._ <br>
 **Links:** [Journal](https://projecteuclid.org/journals/michigan-mathematical-journal/volume-74/issue-1/Distribution-mod-p-of-Eulers-Totient-and-the-Sum-of/10.1307/mmj/20216082.short) &nbsp;  [arXiV](https://arxiv.org/abs/2105.12850)
@@ -22,6 +24,7 @@ _Colloq. Math **168** (2022), 287–295._ <br>
 _J.Number Theory **239** (2022), 352–364._ <br>
 **Link:** [Journal](https://www.sciencedirect.com/science/article/abs/pii/S0022314X22000099)
 
+## August 2022-June 2025 (Graduate research)
 6. On Benford's Law for multiplicative functions (with V. Chandee, X. Li and  P. Pollack) <br>
 _Proc. Amer. Math. Soc. **151** (2023), 4607–4619._ <br>
 **Link:** [Journal](https://www.ams.org/journals/proc/2023-151-11/S0002-9939-2023-16480-1/?active=current) &nbsp;  [arXiV](https://arxiv.org/abs/2203.13117)
@@ -51,32 +54,47 @@ _Proc. Edinb. Math. Soc._, accepted for publication. <br>
 _Michigan Math. J._, accepted for publication. <br>
 **Link:** [Most recent version](MFBound2_SigmaEqd.pdf)
 
-## Completed/Submitted Papers
 13. Joint distribution in residue classes of families of polynomially-defined additive functions <br>
-_Submitted to Math Z._ <br>
+_Under consideration for publication in Math Z._ <br>
 **Link:** [Most recent version](JtAddEqd.pdf)
 
-14. Joint distribution in residue classes of families of multiplicative functions I <br>
+14.1 Joint distribution in residue classes of families of polynomially-defined multiplicative functions <br>
 <!--_Submitted to Int. Math. Res. Not.--> 
-_Submitted_ <br>
+_This is an older version of the manuscript which was used in my PhD thesis; a completely rewritten version can be found in point 14.2 below._ <br>
+**Link:** [arxiv](https://arxiv.org/abs/2401.00358)
+
+15.1 Joint distribution in residue classes of families of polynomially-defined multiplicative functions II <br>
+<!--_Submitted to Acta. Arith.--> 
+_This is an older version of the manuscript which was used in my PhD thesis; a completely rewritten version can be found in point 15.2 below._ <br>
+**Link:** [Link to older version](JtMultEqd2.pdf)
+
+## [PhD Dissertation](AkashSRoyDISSERTATION.pdf)
+
+## November 2025+ (Postdoctoral research)
+14.2 Joint distribution in residue classes of families of multiplicative functions I, _Submitted_ <br>
+<!--_Submitted to Int. Math. Res. Not.--> 
+_This is a completely rewritten version of Manuscript 14.1, which immensely simplifies the arguments and obtains some more general results._ <br>
 **Link:** [Most recent version](JtMultEqd1.pdf)
 
-15. Joint distribution in residue classes of families of polynomially-defined multiplicative functions II <br>
-<!--_Submitted to Acta. Arith.--> 
-_Submitted_ <br>
-**Link:** [Most recent version](JtMultEqd2.pdf)
+15.2 Joint distribution in residue classes of families of multiplicative functions II, _Submitted_ <br>
+<!--_Submitted to Int. Math. Res. Not.--> 
+_This is a completely rewritten version of Manuscript 15.1, which immensely simplifies the arguments and obtains some more general results._ <br>
+**Link:** _Coming soon_
 
-16. The Landau-Selberg-Delange method for products of Dirichlet $L$-functions, and applications, I.<br>
+16. The Landau-Selberg-Delange method for products of Dirichlet $L$-functions, and applications, I. <br>
 **Link:** [Most recent version](L_functionsLSD.pdf)
 
-
+17. The Furstenberg-Sárközy theorem for sums of an even number of odd powers. <br>
+**Link:** _Coming soon_
+    
 ## Manuscripts under preparation
+18. The Landau-Selberg-Delange method for products of Dirichlet $L$-functions, and applications, II. <br>
 
-17. Distribution in residue classes of hybrid families of polynomially-defined additive and multiplicative functions. <br>
+19. Distribution in residue classes of hybrid families of polynomially-defined additive and multiplicative functions. <br>
 
-18. Mean values of multiplicative functions in (generalized) progressions. <br>
+20. Mean values of multiplicative functions in generalized progressions. <br>
 
-## Recent Talks and Slides
+## Talks
 
 1. [PAlmetto Number Theory Series (PANTS)  XXXVII](https://sites.google.com/view/pants2023atuga/home) (December 2023) <br>
 _Distribution in coprime residue classes of Euler’s totient and the sum of divisors_ &nbsp; [Slides](PANTSFall23v4.pdf)
@@ -103,12 +121,17 @@ _Joint distribution in residue classes of families of multiplicative functions_
 _Joint distribution in residue classes of families of multiplicative functions_
 
 8.  [ELAZ 2026](https://www.math.tugraz.at/~elsholtz/WWW/elaz2026/elaz-info.html), Conference on elementary and analytic number theory (February 2026) <br>
-_The Landau-Selberg-Delange method for Dirichlet L-functions, and applications_ &nbsp; [Slides](ELAZ2026Slides.pdf)
+_The Landau-Selberg-Delange method for Dirichlet L-functions, and applications_ <!--&nbsp; [Slides](ELAZ2026Slides.pdf)-->
 
 9. [Charles University (Univerzita Karlova) Number Theory Seminar](https://sites.google.com/view/shman/number-theory-seminar-2025-26) (March 2026) <br>
 _The Landau-Selberg-Delange method for Dirichlet L-functions, and applications_ &nbsp; [Slides](Charles2026Slides.pdf)
 
-[Slides Version 2](LfuncLSDTalk50Min.pdf)
+<!--[Slides Version 2](LfuncLSDTalk50Min.pdf)-->
 
 11. [Simons Summer School and Workshop on Discrete Harmonic Analysis and Analytic Number Theory](https://site.pheedloop.com/event/Workshopondiscreteharmonicanalysisandanalyticnumbertheory/home) (May 2026) <br>
-_The Landau-Selberg-Delange method for Dirichlet L-functions, and applications_
+_The Landau-Selberg-Delange method for Dirichlet L-functions, and applications_ &nbsp; [Slides](ASRSimonsSummerTalk.pdf)
+
+12. [FOUVRY 73 (a FOUr-week Voyage thRough analYtic number 7h3ory) Summer School](https://bernoulli.epfl.ch/programs/fouvry-73/) (August 2026) <br>
+[Link to program](https://www-lmpa.univ-littoral.fr/~ldevin/Fouvry73.html) <br>
+_The Landau-Selberg-Delange method for Dirichlet L-functions, and applications_ &nbsp; [Slides](Mon1Ses2RmATalk1SinghaRoy.pdf)
+
