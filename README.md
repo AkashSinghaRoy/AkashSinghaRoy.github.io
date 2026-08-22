@@ -25,9 +25,19 @@ I am a postdoctoral researcher in the number theory research group [UFOCLAN](htt
 
 <!-- My primary research interests lie in elementary, analytic and combinatorial number theory. In my thesis, I obtain new results on the distribution in arithmetic progressions of values taken by arithmetic functions: This was born out of a series of joint papers with [my advisor](https://pollack.uga.edu/) and his former student Dr. [Noah Lebowitz-Lockard](https://noahlockard.wordpress.com/), -- where we had set out to investigate analogues of the Siegel-Walfisz theorem for large classes of additive and multiplicative functions as well as for the joint distribution of families consisting of such functions, -- and recently culminated in three solo papers obtaining some of the best possible results in this direction.-->
 
-My primary research interests lie in elementary, analytic and combinatorial number theory. In [my Ph.D. thesis](AkashSRoyDISSERTATION.pdf), I study the residue-class distribution of (families of) arithmetic functions to varying moduli: More precisely, I obtain new analogues of the Siegel-Walfisz theorem for large classes of additive and multiplicative functions, which are essentially optimal in many ways. This work blends ideas that could be thought of as being borrowed from probability (but executed via methods from the "anatomy of integers"), with machinery from linear algebra over rings (a.k.a. module theory), classical analytic number theory, character sums/exponential sums, commutative algebra, as well as arithmetic and algebraic geometry. One of the latest manuscripts on this may be found [here](JtMultEqd1.pdf).
+My primary research interests lie in elementary, analytic and combinatorial number theory, more precisely in: <br>
+1. Distributions of arithmetic functions: Value distributions in residue classes, Benford's Law (Benford behavior of sequences), Erd\H{o}s--Kac theorem and extensions etc. <br>
+2. Multiplicative Number Theory: Mean values of multiplicative functions and mean values along arithmetic progressions. <br>
+3. Anatomy of integers and sieve theory. <br>
+4. Distributions of primes: Residue races and Chebyshev's bias. <br>
+5. Interface of number theory with ergodic theory and additive combinatorics. <br> 
+6. Modular forms and $L$-functions.
 
-I am currently working on a variety of new projects. In [one of these projects](L_functionsLSD.pdf), I give new results on mean values of multiplicative functions that extend the classical Landau-Selberg-Delange "LSD" method to situations where the Dirichlet series under consideration is controlled by Dirichlet $L$-functions mod $q$ (instead of the usual Riemann zeta function); my results allow the conductor $q$ to vary within ranges that are typically much wider than those permitted by known forms of the "LSD" method. More updates on other projects coming soon!
+My papers can be found [here](https://akashsingharoy.github.io/research), my CV is [here](AkashSRoy_CVWebsite_Mar26.pdf), and some of my talks can be found [here](https://akashsingharoy.github.io/Talks).
+
+In [my Ph.D. thesis](AkashSRoyDISSERTATION.pdf), I study the residue-class distribution of (families of) arithmetic functions to varying moduli: More precisely, I obtain new analogues of the Siegel-Walfisz theorem for large classes of additive and multiplicative functions, which are essentially optimal in many ways. This work blends ideas that could be thought of as being borrowed from probability (but executed via methods from the "anatomy of integers"), with machinery from linear algebra over rings (a.k.a. module theory), classical analytic number theory, character sums/exponential sums, commutative algebra, as well as arithmetic and algebraic geometry. One of the latest manuscripts on this may be found [here](JtMultEqd1.pdf).
+
+In [another recent project](L_functionsLSD.pdf), I give new results on mean values of multiplicative functions that extend the classical Landau-Selberg-Delange "LSD" method to situations where the Dirichlet series under consideration is controlled by Dirichlet $L$-functions mod $q$ (instead of the usual Riemann zeta function); my results allow the conductor $q$ to vary within ranges that are typically much wider than those permitted by known forms of the "LSD" method. 
 
 Besides these, I have coauthored papers with [Vorrapan (Fai) Chandee](https://www.math.ksu.edu/~chandee/), [Xiannan Li](https://www.math.ksu.edu/~xiannan/), [Nathan McNew](https://www.nathanmcnew.com/) and [Paul Pollack](https://pollack.uga.edu/), on topics such as 
 
@@ -37,7 +47,7 @@ Besides these, I have coauthored papers with [Vorrapan (Fai) Chandee](https://ww
 
 (iii) Behavior of the "aliquot sum" function $s(n)$. 
 
-I am also interested in a variety of other questions on the anatomy of integers, Erdos-type problems and general statistical questions on distributions of arithmetic functions, including Fourier coefficients of modular forms and the partition function. 
+I am also interested in a variety of other questions on the anatomy of integers, Erdos-type problems and general statistical questions on distributions of arithmetic functions, including Fourier coefficients of modular forms and the partition function. Recently, I have been trying to expand my research into the intersections of ergodic theory and additive combinatorics with analytic number theory; I have been working on some projects in these areas as well. More updates coming soon!
 
 <!-- Moreover, my work relies heavily on character sums and exponential sums, and many of the questions I have worked on and am working on have interesting analogues in the realms of $L$-functions, modular forms (and more generally automorphic forms), probability and probabilistic number theory. As part of my research, I have used multiple mathematical software packages such as Sage, Pari/GP, Macaulay2, and Magma.-->
 
