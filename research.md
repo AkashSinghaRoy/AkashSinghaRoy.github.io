@@ -70,11 +70,11 @@ _This is an older version of the manuscript which was used in my PhD thesis; a c
 
 ## November 2025+ (Postdoctoral research)
 14. Joint distribution in residue classes of families of multiplicative functions I, _Submitted_ <!--_Submitted to Int. Math. Res. Not.--> <br>
-_This is a completely rewritten version of Manuscript 14.1, which immensely simplifies the arguments and obtains some more general results._ <br>
+_This is a completely rewritten version of Manuscript 14 in the "August 2022-June 2025 (Graduate research)" section, which immensely simplifies the arguments and obtains some more general results._ <br>
 **Link:** [Most recent version](JtMultEqd1.pdf)
 
 15. Joint distribution in residue classes of families of multiplicative functions II, _Submitted_ <br>
-_This is a completely rewritten version of Manuscript 15.1, which immensely simplifies the arguments and obtains some more general results._ <br>
+_This is a completely rewritten version of Manuscript 15 in the "August 2022-June 2025 (Graduate research)" section, which immensely simplifies the arguments and obtains some more general results._ <br>
 **Link:** _Coming soon_
 
 16. The Landau-Selberg-Delange method for products of Dirichlet $L$-functions, and applications, I. <br>
