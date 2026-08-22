@@ -28,9 +28,7 @@ _Joint distribution in residue classes of families of multiplicative functions_
 _The Landau-Selberg-Delange method for Dirichlet L-functions, and applications_ <!--&nbsp; [Slides](ELAZ2026Slides.pdf)-->
 
 9. [Charles University (Univerzita Karlova) Number Theory Seminar](https://sites.google.com/view/shman/number-theory-seminar-2025-26) (March 2026) <br>
-_The Landau-Selberg-Delange method for Dirichlet L-functions, and applications_ &nbsp; [Slides](Charles2026Slides.pdf)
-
-<!--[Slides Version 2](LfuncLSDTalk50Min.pdf)-->
+_The Landau-Selberg-Delange method for Dirichlet L-functions, and applications_ &nbsp; [Slides](Charles2026Slides.pdf) <!--[Slides Version 2](LfuncLSDTalk50Min.pdf)-->
 
 10. [Simons Summer School and Workshop on Discrete Harmonic Analysis and Analytic Number Theory](https://site.pheedloop.com/event/Workshopondiscreteharmonicanalysisandanalyticnumbertheory/home) (May 2026) <br>
 _The Landau-Selberg-Delange method for Dirichlet L-functions, and applications_ &nbsp; [Slides](ASRSimonsSummerTalk.pdf)
