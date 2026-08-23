@@ -18,7 +18,7 @@
 Welcome! 
 
 I am a postdoctoral researcher in the number theory research group [UFOCLAN](https://www1.karlin.mff.cuni.cz/~kala/web/ufoclan) at Charles University, Prague. I completed my Ph.D. in Mathematics (August 2022-July 2025) at the [University of Georgia](https://www.math.uga.edu/) (UGA) under the direction of [Paul Pollack](https://pollack.uga.edu/). <!--I completed my undergraduate studies (August 2018-July 2021) at the Chennai Mathematical Institute, where I obtained a BSc. Honors in Mathematics and Computer Science.-->
-I got my BSc. Honors in Mathematics and Computer Science Chennai Mathematical Institute (August 2018-July 2021).
+I got my BSc. Honors in Mathematics and Computer Science at the Chennai Mathematical Institute (August 2018-July 2021).
 
 ## Research Interests
 
