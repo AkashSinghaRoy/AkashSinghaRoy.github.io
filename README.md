@@ -65,7 +65,8 @@ akash01s.roy@gmail.com
 **Previous emails (NO LONGER IN USE):**<br>
 akash.singharoy@uga.edu
 
-# [Curriculum Vitae](AkashSRoy_CVWebsite_Mar26.pdf)
+# [Curriculum Vitae](AkashSRoy_CV_Aug26.pdf)
+<!--AkashSRoy_CVWebsite_Mar26.pdf-->
 
 <!--# [Research: Publications, Preprints and Talks](https://akashsingharoy.github.io/research) -->
 
