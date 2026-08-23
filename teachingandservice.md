@@ -14,6 +14,12 @@ Have refereed for
 
 6. [Rose-Hulman Undergraduate Mathematics Journal](https://scholar.rose-hulman.edu/rhumj/)
 
+## Teaching and service at Charles University, Prague
+1. Refereed two Bachelor's theses.
+
+2. Instructor of Arithmetic of Quadratic Forms, Winter 2026. <br>
+_Master's level course_
+
 ## Teaching and service at UGA 
 ### Spring 2025
 1. Math Study Hall tutor
