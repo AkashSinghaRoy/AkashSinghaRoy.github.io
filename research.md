@@ -10,7 +10,7 @@ _**Springer, Problem Books in Mathematics**, 2021._
 ## January-July 2021 (Undergraduate research) 
 2\. Distribution mod $p$ of Euler's totient and the sum of proper divisors (with N. Lebowitz-Lockard and P. Pollack)<br>
 _**The Michigan Mathematical Journal** 74 (2024), 143–166._ <br>
-**Links:** [Journal](https://projecteuclid.org/journals/michigan-mathematical-journal/volume-74/issue-1/Distribution-mod-p-of-Eulers-Totient-and-the-Sum-of/10.1307/mmj/20216082.short) &nbsp;  [arXiV](https://arxiv.org/abs/2105.12850)
+Links to manuscript: [Journal](https://projecteuclid.org/journals/michigan-mathematical-journal/volume-74/issue-1/Distribution-mod-p-of-Eulers-Totient-and-the-Sum-of/10.1307/mmj/20216082.short) &nbsp;  [arXiV](https://arxiv.org/abs/2105.12850)
 
 3\. Joint distribution in residue classes of polynomial-like multiplicative functions (with P. Pollack) <br> 
 _**Acta Arithmetica** 202 (2022), 89–104._ <br>
