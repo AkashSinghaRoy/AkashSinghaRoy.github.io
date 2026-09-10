@@ -1,13 +1,14 @@
 <!--- # Research: Publications, Preprints and Talks -->
 
 # Manuscripts organized by chronology of completion
-## August 2020-January 2021
-1\. (Book) Steps into Analytic Number Theory: A Problem-Based Introduction   (with Paul Pollack)<br>
+## **Book**
+<!--August 2020-January 2021-->
+1\. Steps into Analytic Number Theory: A Problem-Based Introduction   (with Paul Pollack)<br>
 _**Springer, Problem Books in Mathematics**, 2021._
 
 <!---## Published and Accepted Works-->
 
-## January-July 2021 (Undergraduate research) 
+## Undergraduate research (January-July 2021) 
 2\. Distribution mod $p$ of Euler's totient and the sum of proper divisors (with Noah Lebowitz-Lockard and Paul Pollack)<br>
 _**Michigan Mathematical Journal** 74 (2024), 143–166._ <br>
 Links to manuscript: [Journal](https://projecteuclid.org/journals/michigan-mathematical-journal/volume-74/issue-1/Distribution-mod-p-of-Eulers-Totient-and-the-Sum-of/10.1307/mmj/20216082.short) &nbsp;  [arXiV](https://arxiv.org/abs/2105.12850)
@@ -24,7 +25,7 @@ Links to manuscript: [Journal](https://www.impan.pl/en/publishing-house/journals
 _**Journal of Number Theory** 239 (2022), 352–364._ <br>
 Link to manuscript: [Journal](https://www.sciencedirect.com/science/article/abs/pii/S0022314X22000099)
 
-## August 2022-June 2025 (Graduate research)
+## Graduate research (August 2022-June 2025)
 6\. Benford behavior and distribution in residue classes of large prime factors (with Paul Pollack) <br>
 _**Canadian Mathematical Bulletin** 66 (2023), 626–642._ <br>
 Link to manuscript: [Journal](https://www.cambridge.org/core/journals/canadian-mathematical-bulletin/article/benford-behavior-and-distribution-in-residue-classes-of-large-prime-factors/77F6DAF48EA54EF008AC5B8BE19C60B1)
@@ -60,21 +61,21 @@ Link to manuscript: [Most recent version](JtAddEqd.pdf)
 
 14\. Joint distribution in residue classes of families of polynomially-defined multiplicative functions <br>
 [Link to older (thesis) version](https://arxiv.org/abs/2401.00358) <br>
-_This is an older version of the manuscript; it was used in my PhD thesis. A completely rewritten and improved version can be found in the subsection "November 2025+ (Postdoctoral research)'' below._ 
+_This is an older version of the manuscript; it was used in my PhD thesis. A completely rewritten and improved version can be found in the subsection "Postdoctoral research (November 2025+)'' below._ 
 
 15\. Joint distribution in residue classes of families of polynomially-defined multiplicative functions II <br>
 [Link to older (thesis) version](JtMultEqd2.pdf) <br>
-_This is an older version of the manuscript; it was used in my PhD thesis. A completely rewritten and improved version can be found in the subsection "November 2025+ (Postdoctoral research)'' below._ 
+_This is an older version of the manuscript; it was used in my PhD thesis. A completely rewritten and improved version can be found in the subsection "Postdoctoral research (November 2025+)'' below._ 
 
  [**PhD Dissertation**](AkashSRoyDISSERTATION.pdf)
 
-## November 2025+ (Postdoctoral research)
+## Postdoctoral research (November 2025+)
 14\. Joint distribution in residue classes of families of multiplicative functions I, _Submitted_ <!--_Submitted to Int. Math. Res. Not.--> <br>
-_This is a completely rewritten version of Manuscript 14 in the subsection "August 2022-June 2025 (Graduate research)" above. This immensely simplifies the arguments and establishes more general results._ <br>
+_This is a completely rewritten version of Manuscript 14 in the subsection "Graduate research (August 2022-June 2025)" above. This immensely simplifies the arguments and establishes more general results._ <br>
 **Link to manuscript:** [Most recent version](JtMultEqd1.pdf)
 
 15\. Joint distribution in residue classes of families of multiplicative functions II, _Submitted_ <br>
-_This is a completely rewritten version of Manuscript 15 in the subsection "August 2022-June 2025 (Graduate research)" above. This immensely simplifies the arguments and establishes more general results._ <br>
+_This is a completely rewritten version of Manuscript 15 in the subsection "Graduate research (August 2022-June 2025)" above. This immensely simplifies the arguments and establishes more general results._ <br>
 **Link to manuscript:** _Coming soon_
 
 16\. The Landau-Selberg-Delange method for products of Dirichlet $L$-functions, and applications, I. <br>
