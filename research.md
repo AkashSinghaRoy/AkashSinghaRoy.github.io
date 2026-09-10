@@ -59,12 +59,12 @@ _**Under consideration for publication in Mathematische Zeitschrift**_ <br>
 **Link:** [Most recent version](JtAddEqd.pdf)
 
 14\. Joint distribution in residue classes of families of polynomially-defined multiplicative functions <br>
-_This is an older version of the manuscript which was used in my PhD thesis; a completely rewritten and improved version can be found in the subsection "November 2025+ (Postdoctoral research)" below._ <br>
-**Link:** [arxiv](https://arxiv.org/abs/2401.00358)
+**Link:** [arxiv](https://arxiv.org/abs/2401.00358) <br>
+_This is an older version of the manuscript; it was used in my PhD thesis. A completely rewritten and improved version can be found in the subsection ``November 2025+ (Postdoctoral research)'' below._ 
 
 15\. Joint distribution in residue classes of families of polynomially-defined multiplicative functions II <br>
-_This is an older version of the manuscript which was used in my PhD thesis; a completely rewritten and improved version can be found in the subsection "November 2025+ (Postdoctoral research)" below._ <br>
-**Link:** [Link to older version](JtMultEqd2.pdf)
+**Link:** [Link to older version](JtMultEqd2.pdf) <br>
+_This is an older version of the manuscript; it was used in my PhD thesis. A completely rewritten and improved version can be found in the subsection ``November 2025+ (Postdoctoral research)'' below._ 
 
  [**PhD Dissertation**](AkashSRoyDISSERTATION.pdf)
 
