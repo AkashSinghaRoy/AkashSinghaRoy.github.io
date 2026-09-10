@@ -61,21 +61,21 @@ Link to manuscript: [Most recent version](JtAddEqd.pdf)
 
 14\. Joint distribution in residue classes of families of polynomially-defined multiplicative functions <br>
 [Link to older (thesis) version](https://arxiv.org/abs/2401.00358) <br>
-_This is an older version of the manuscript; it was used in my PhD thesis. A completely rewritten and improved version can be found in the subsection "Postdoctoral research (November 2025+)'' below._ 
+_This is an older version of the manuscript; it was used in my PhD thesis. A completely rewritten and improved version can be found in the postdoctoral research subsection below._ 
 
 15\. Joint distribution in residue classes of families of polynomially-defined multiplicative functions II <br>
 [Link to older (thesis) version](JtMultEqd2.pdf) <br>
-_This is an older version of the manuscript; it was used in my PhD thesis. A completely rewritten and improved version can be found in the subsection "Postdoctoral research (November 2025+)'' below._ 
+_This is an older version of the manuscript; it was used in my PhD thesis. A completely rewritten and improved version can be found in the postdoctoral research subsection below._ 
 
  [**PhD Dissertation**](AkashSRoyDISSERTATION.pdf)
 
 ## Postdoctoral research (November 2025+)
 14\. Joint distribution in residue classes of families of multiplicative functions I, _Submitted_ <!--_Submitted to Int. Math. Res. Not.--> <br>
-_This is a completely rewritten version of Manuscript 14 in the subsection "Graduate research (August 2022-June 2025)" above. This immensely simplifies the arguments and establishes more general results._ <br>
+_This is a completely rewritten version of Manuscript 14 in the graduate research subsection above. This immensely simplifies the arguments and establishes more general results._ <br>
 **Link to manuscript:** [Most recent version](JtMultEqd1.pdf)
 
 15\. Joint distribution in residue classes of families of multiplicative functions II, _Submitted_ <br>
-_This is a completely rewritten version of Manuscript 15 in the subsection "Graduate research (August 2022-June 2025)" above. This immensely simplifies the arguments and establishes more general results._ <br>
+_This is a completely rewritten version of Manuscript 15 in the graduate research subsection above. This immensely simplifies the arguments and establishes more general results._ <br>
 **Link to manuscript:** _Coming soon_
 
 16\. The Landau-Selberg-Delange method for products of Dirichlet $L$-functions, and applications, I. <br>
