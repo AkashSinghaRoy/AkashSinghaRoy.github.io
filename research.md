@@ -14,7 +14,7 @@ Links to manuscript: [Journal](https://projecteuclid.org/journals/michigan-mathe
 
 3\. Joint distribution in residue classes of polynomial-like multiplicative functions (with P. Pollack) <br> 
 _**Acta Arithmetica** 202 (2022), 89–104._ <br>
-**Link:** [Journal](https://www.impan.pl/en/publishing-house/journals-and-series/acta-arithmetica/all/202/1/114425/joint-distribution-in-residue-classes-of-polynomial-like-multiplicative-functions) &nbsp;  [arXiV](https://arxiv.org/abs/2105.12854)
+Links to manuscript: [Journal](https://www.impan.pl/en/publishing-house/journals-and-series/acta-arithmetica/all/202/1/114425/joint-distribution-in-residue-classes-of-polynomial-like-multiplicative-functions) &nbsp;  [arXiV](https://arxiv.org/abs/2105.12854)
 
 4\. Powerfree sums of proper divisors (with P. Pollack) <br> 
 _**Colloquium Mathematicum** 168 (2022), 287–295._ <br>
