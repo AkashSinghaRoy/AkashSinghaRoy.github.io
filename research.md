@@ -29,7 +29,7 @@ _**Journal of Number Theory** 239 (2022), 352–364._ <br>
 _**Canadian Mathematical Bulletin** 66 (2023), 626–642._ <br>
 **Link:** [Journal](https://www.cambridge.org/core/journals/canadian-mathematical-bulletin/article/benford-behavior-and-distribution-in-residue-classes-of-large-prime-factors/77F6DAF48EA54EF008AC5B8BE19C60B1)
 
-7\. On Benford's Law for multiplicative functions (with Vorrapan Chandee, Xiannan Li and  Paul Pollack) <br>
+7\. On Benford's Law for multiplicative functions (with Vorrapan Chandee, Xiannan Li, and  Paul Pollack) <br>
 _**Proceedings of the American Mathematical Society** 151 (2023), 4607–4619._ <br>
 **Link:** [Journal](https://www.ams.org/journals/proc/2023-151-11/S0002-9939-2023-16480-1/?active=current) &nbsp;  [arXiV](https://arxiv.org/abs/2203.13117)
 
@@ -86,7 +86,7 @@ _This is a completely rewritten version of Manuscript 15 in the subsection "Augu
 ## Forthcoming manuscripts
 18\. The Landau-Selberg-Delange method for products of Dirichlet $L$-functions, and applications, II. <br>
 
-19\. Distribution in residue classes of hybrid families of polynomially-defined additive and multiplicative functions. <br>
+19\. Joint distribution in residue classes of hybrid families of additive and multiplicative functions. <br>
 
 20\. Mean values of multiplicative functions in generalized progressions. <br>
 
