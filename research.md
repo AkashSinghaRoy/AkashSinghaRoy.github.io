@@ -9,7 +9,7 @@ _**Springer, Problem Books in Mathematics**, 2021._
 
 ## January-July 2021 (Undergraduate research) 
 2\. Distribution mod $p$ of Euler's totient and the sum of proper divisors (with N. Lebowitz-Lockard and P. Pollack)<br>
-_**The Michigan Mathematical Journal** 74 (2024), 143–166._ <br>
+_**Michigan Mathematical Journal** 74 (2024), 143–166._ <br>
 Links to manuscript: [Journal](https://projecteuclid.org/journals/michigan-mathematical-journal/volume-74/issue-1/Distribution-mod-p-of-Eulers-Totient-and-the-Sum-of/10.1307/mmj/20216082.short) &nbsp;  [arXiV](https://arxiv.org/abs/2105.12850)
 
 3\. Joint distribution in residue classes of polynomial-like multiplicative functions (with P. Pollack) <br> 
@@ -51,7 +51,7 @@ _**Proceedings of the Edinburgh Mathematical Society** 68 (2025), no. 3, 712-730
 **Link:** [Most recent version](MFBound_APhi1v2.pdf)
 
 12\. Anatomical mean value bounds on  multiplicative functions and the distribution of the sum of divisors <br>
-_**The Michigan Mathematical Journal**_, accepted for publication. <br>
+_**Michigan Mathematical Journal**_, accepted for publication. <br>
 **Link:** [Most recent version](MFBound2_SigmaEqd.pdf)
 
 13\. Joint distribution in residue classes of families of polynomially-defined additive functions <br>
