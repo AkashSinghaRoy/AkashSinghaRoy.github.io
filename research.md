@@ -25,7 +25,7 @@ Links to manuscript: [Journal](https://www.impan.pl/en/publishing-house/journals
 _**Journal of Number Theory** 239 (2022), 352–364._ <br>
 Link to manuscript: [Journal](https://www.sciencedirect.com/science/article/abs/pii/S0022314X22000099)
 
-## Graduate research (February 2022-June 2025)
+## Graduate research (February 2022-July 2025)
 6\. Benford behavior and distribution in residue classes of large prime factors (with Paul Pollack) <br>
 _**Canadian Mathematical Bulletin** 66 (2023), 626–642._ <br>
 Link to manuscript: [Journal](https://www.cambridge.org/core/journals/canadian-mathematical-bulletin/article/benford-behavior-and-distribution-in-residue-classes-of-large-prime-factors/77F6DAF48EA54EF008AC5B8BE19C60B1)
