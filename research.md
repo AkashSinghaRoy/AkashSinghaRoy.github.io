@@ -83,7 +83,7 @@ _This is a completely rewritten version of Manuscript 15 in the subsection "Augu
 17\. The Furstenberg-Sárközy theorem for sums of an even number of odd powers (with Alexandros Kalogirou, Andrew Lott, and Akos Magyar) <br>
 **Link:** _Completed, will be available soon._
     
-## Upcoming manuscripts
+## Forthcoming manuscripts
 18\. The Landau-Selberg-Delange method for products of Dirichlet $L$-functions, and applications, II. <br>
 
 19\. Distribution in residue classes of hybrid families of polynomially-defined additive and multiplicative functions. <br>
