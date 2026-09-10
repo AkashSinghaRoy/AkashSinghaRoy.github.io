@@ -1,7 +1,8 @@
 # Teaching and Service 
 
 ## Refereeing
-Have refereed for the following journals and edited volumes <br>
+Have refereed for the following journals and edited volumes 
+
 1\. [Monatshefte fur Mathematik](https://link.springer.com/journal/605)
 
 2\. [Acta Arithmetica](https://www.impan.pl/en/publishing-house/journals-and-series/acta-arithmetica)
