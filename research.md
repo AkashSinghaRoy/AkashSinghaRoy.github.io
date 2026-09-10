@@ -18,52 +18,52 @@ Links to manuscript: [Journal](https://www.impan.pl/en/publishing-house/journals
 
 4\. Powerfree sums of proper divisors (with Paul Pollack) <br> 
 _**Colloquium Mathematicum** 168 (2022), 287–295._ <br>
-**Link:** [Journal](https://www.impan.pl/en/publishing-house/journals-and-series/colloquium-mathematicum/all/168/2/114505/powerfree-sums-of-proper-divisors) &nbsp;  [arXiV](https://arxiv.org/abs/2106.14953)
+Links to manuscript: [Journal](https://www.impan.pl/en/publishing-house/journals-and-series/colloquium-mathematicum/all/168/2/114505/powerfree-sums-of-proper-divisors) &nbsp;  [arXiV](https://arxiv.org/abs/2106.14953)
 
 5\. Dirichlet, Sierpinski, and Benford (with Paul Pollack) <br>
 _**Journal of Number Theory** 239 (2022), 352–364._ <br>
-**Link:** [Journal](https://www.sciencedirect.com/science/article/abs/pii/S0022314X22000099)
+Link to manuscript: [Journal](https://www.sciencedirect.com/science/article/abs/pii/S0022314X22000099)
 
 ## August 2022-June 2025 (Graduate research)
 6\. Benford behavior and distribution in residue classes of large prime factors (with Paul Pollack) <br>
 _**Canadian Mathematical Bulletin** 66 (2023), 626–642._ <br>
-**Link:** [Journal](https://www.cambridge.org/core/journals/canadian-mathematical-bulletin/article/benford-behavior-and-distribution-in-residue-classes-of-large-prime-factors/77F6DAF48EA54EF008AC5B8BE19C60B1)
+Link to manuscript: [Journal](https://www.cambridge.org/core/journals/canadian-mathematical-bulletin/article/benford-behavior-and-distribution-in-residue-classes-of-large-prime-factors/77F6DAF48EA54EF008AC5B8BE19C60B1)
 
 7\. On Benford's Law for multiplicative functions (with Vorrapan Chandee, Xiannan Li, and  Paul Pollack) <br>
 _**Proceedings of the American Mathematical Society** 151 (2023), 4607–4619._ <br>
-**Link:** [Journal](https://www.ams.org/journals/proc/2023-151-11/S0002-9939-2023-16480-1/?active=current) &nbsp;  [arXiV](https://arxiv.org/abs/2203.13117)
+Links to manuscript: [Journal](https://www.ams.org/journals/proc/2023-151-11/S0002-9939-2023-16480-1/?active=current) &nbsp;  [arXiV](https://arxiv.org/abs/2203.13117)
 
 8\. Distribution in coprime residue classes of polynomially-defined multiplicative functions (with Paul Pollack) <br>
 _**Mathematische Zeitschrift** 303 (2023), no. 4, paper 93, 20 pages._ <br>
-**Link:** [Journal](https://link.springer.com/article/10.1007/s00209-023-03240-7) &nbsp;  [arXiV](https://arxiv.org/abs/2303.14600)
+Links to manuscript: [Journal](https://link.springer.com/article/10.1007/s00209-023-03240-7) &nbsp;  [arXiV](https://arxiv.org/abs/2303.14600)
 
 9\. Intermediate prime factors in specified subsets
 (with Nathan McNew and Paul Pollack) <br>
 _**Monatshefte für Mathematik** 202 (2023), 837–855._ <br>
-**Link:** [Journal](https://link.springer.com/article/10.1007/s00605-023-01855-w)
+Link to manuscript: [Journal](https://link.springer.com/article/10.1007/s00605-023-01855-w)
 
 10\. The distribution of intermediate prime factors (with Nathan McNew and Paul  Pollack) <br>
 _**Illinois Journal of Mathematics** 68 (2024), no. 3, 537-576._ <br>
-**Link:** [Journal](https://projecteuclid.org/journals/illinois-journal-of-mathematics/volume-68/issue-3/The-distribution-of-intermediate-prime-factors/10.1215/00192082-11417186.short) &nbsp;  [arXiV](https://arxiv.org/abs/2305.01117)
+Links to manuscript: [Journal](https://projecteuclid.org/journals/illinois-journal-of-mathematics/volume-68/issue-3/The-distribution-of-intermediate-prime-factors/10.1215/00192082-11417186.short) &nbsp;  [arXiV](https://arxiv.org/abs/2305.01117)
 
 11\. Mean values of multiplicative functions and applications to residue-class distribution (with Paul Pollack) <br>
 _**Proceedings of the Edinburgh Mathematical Society** 68 (2025), no. 3, 712-730._ <br>
-**Link:** [Most recent version](MFBound_APhi1v2.pdf)
+Link to manuscript: [Most recent version](MFBound_APhi1v2.pdf)
 
 12\. Anatomical mean value bounds on  multiplicative functions and the distribution of the sum of divisors <br>
 _**Michigan Mathematical Journal**_, accepted for publication. <br>
-**Link:** [Most recent version](MFBound2_SigmaEqd.pdf)
+Link to manuscript: [Most recent version](MFBound2_SigmaEqd.pdf)
 
 13\. Joint distribution in residue classes of families of polynomially-defined additive functions <br>
 _**Under consideration for publication in Mathematische Zeitschrift**_ <br>
-**Link:** [Most recent version](JtAddEqd.pdf)
+Link to manuscript: [Most recent version](JtAddEqd.pdf)
 
 14\. Joint distribution in residue classes of families of polynomially-defined multiplicative functions <br>
-**Link:** [arxiv](https://arxiv.org/abs/2401.00358) <br>
+[Link to older (thesis) version](https://arxiv.org/abs/2401.00358) <br>
 _This is an older version of the manuscript; it was used in my PhD thesis. A completely rewritten and improved version can be found in the subsection "November 2025+ (Postdoctoral research)'' below._ 
 
 15\. Joint distribution in residue classes of families of polynomially-defined multiplicative functions II <br>
-**Link:** [Link to older version](JtMultEqd2.pdf) <br>
+[Link to older (thesis) version](JtMultEqd2.pdf) <br>
 _This is an older version of the manuscript; it was used in my PhD thesis. A completely rewritten and improved version can be found in the subsection "November 2025+ (Postdoctoral research)'' below._ 
 
  [**PhD Dissertation**](AkashSRoyDISSERTATION.pdf)
@@ -71,17 +71,17 @@ _This is an older version of the manuscript; it was used in my PhD thesis. A com
 ## November 2025+ (Postdoctoral research)
 14\. Joint distribution in residue classes of families of multiplicative functions I, _Submitted_ <!--_Submitted to Int. Math. Res. Not.--> <br>
 _This is a completely rewritten version of Manuscript 14 in the subsection "August 2022-June 2025 (Graduate research)" above. This immensely simplifies the arguments and establishes more general results._ <br>
-**Link:** [Most recent version](JtMultEqd1.pdf)
+**Link to manuscript:** [Most recent version](JtMultEqd1.pdf)
 
 15\. Joint distribution in residue classes of families of multiplicative functions II, _Submitted_ <br>
 _This is a completely rewritten version of Manuscript 15 in the subsection "August 2022-June 2025 (Graduate research)" above. This immensely simplifies the arguments and establishes more general results._ <br>
-**Link:** _Coming soon_
+**Link to manuscript:** _Coming soon_
 
 16\. The Landau-Selberg-Delange method for products of Dirichlet $L$-functions, and applications, I. <br>
-**Link:** [Most recent version](L_functionsLSD.pdf)
+**Link to manuscript:** [Most recent version](L_functionsLSD.pdf)
 
 17\. The Furstenberg-Sárközy theorem for sums of an even number of odd powers (with Alexandros Kalogirou, Andrew Lott, and Akos Magyar) <br>
-**Link:** _Completed, will be available soon._
+_Completed, will be available soon._
     
 ## Forthcoming manuscripts
 18\. The Landau-Selberg-Delange method for products of Dirichlet $L$-functions, and applications, II. <br>
