@@ -78,7 +78,7 @@ _This is a completely rewritten version of Manuscript 14 in the graduate researc
 _This is a completely rewritten version of Manuscript 15 in the graduate research subsection above. This immensely simplifies the arguments and establishes more general results._ <br>
 **Link to manuscript:** _Coming soon_
 
-16\. The Landau-Selberg-Delange method for products of Dirichlet $L$-functions, and applications, I. <br>
+16\. The Landau-Selberg-Delange method for products of Dirichlet $L$-functions, and applications, I. _Submitted_ <br>
 **Link to manuscript:** [Most recent version](L_functionsLSD.pdf)
 
 17\. The Furstenberg-Sárközy theorem for sums of an even number of odd powers (with Alexandros Kalogirou, Andrew Lott, and Akos Magyar) <br>
