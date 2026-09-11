@@ -34,7 +34,7 @@ My primary research interests lie in elementary, analytic and combinatorial numb
 5. Interface of number theory with ergodic theory and additive combinatorics. <br> 
 6. Modular forms and $L$-functions.
 
-My papers can be found [here](https://akashsingharoy.github.io/research), my CV is [here](AkashSRoy_CV_10Sep26.pdf), and some of my talks can be found [here](https://akashsingharoy.github.io/Talks).
+My papers can be found [here](https://akashsingharoy.github.io/research), my CV is [here](AkashSRoy_CV_Website_10Sep26.pdf), and some of my talks can be found [here](https://akashsingharoy.github.io/Talks).
 
 In [my Ph.D. thesis](AkashSRoyDISSERTATION.pdf), I study the residue-class distribution of (families of) arithmetic functions to varying moduli: More precisely, I obtain new analogues of the Siegel-Walfisz theorem for large classes of additive and multiplicative functions, which are essentially optimal in many ways. This work blends ideas that could be thought of as being borrowed from probability (but executed via methods from the "anatomy of integers"), with machinery from linear algebra over rings (a.k.a. module theory), classical analytic number theory, character sums/exponential sums, commutative algebra, as well as arithmetic and algebraic geometry. One of the latest manuscripts on this may be found [here](JtMultEqd1.pdf).
 
@@ -66,7 +66,8 @@ akash01s.roy@gmail.com
 **Previous emails (NO LONGER IN USE):**<br>
 akash.singharoy@uga.edu
 
-# [Curriculum Vitae](AkashSRoy_CV_10Sep26.pdf)
+# [Curriculum Vitae](AkashSRoy_CV_Website_10Sep26.pdf)
+<!--AkashSRoy_CV_10Sep26.pdf-->
 <!--(AkashSRoy_CV_Aug26.pdf)-->
 <!--AkashSRoy_CVWebsite_Mar26.pdf-->
 <!--# [Research: Publications, Preprints and Talks](https://akashsingharoy.github.io/research) -->
