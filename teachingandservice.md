@@ -1,6 +1,6 @@
 # Teaching and Service 
 
-## Refereeing
+## Refereeing and quick opinions
 Have provided full referee reports or quick opinions for the following journals and edited volumes (quick opinions indicated in parentheses; others are full referee reports). 
 
 1\. [Acta Arithmetica](https://www.impan.pl/en/publishing-house/journals-and-series/acta-arithmetica) (quick opinion)
