@@ -1,19 +1,21 @@
 # Teaching and Service 
 
 ## Refereeing
-Have refereed for the following journals and edited volumes 
+Have provided full referee reports or quick opinions for the following journals and edited volumes (quick opinions indicated in parentheses; others are full referee reports). 
 
-1\. [Monatshefte fur Mathematik](https://link.springer.com/journal/605)
+1\. [Acta Arithmetica](https://www.impan.pl/en/publishing-house/journals-and-series/acta-arithmetica) (quick opinion)
 
-2\. [Acta Arithmetica](https://www.impan.pl/en/publishing-house/journals-and-series/acta-arithmetica)
+2\. [Journal of Number Theory](https://www.sciencedirect.com/journal/journal-of-number-theory)
+
+3\. [Monatshefte fur Mathematik](https://link.springer.com/journal/605) 
 
 <!---3. [Research in Number Theory](https://link.springer.com/journal/40993)-->
    
-3\. [Women in Numbers Europe 4 – Research Directions in Number Theory](https://womeninnumbertheory.org/women-in-numbers-europe-iv-research-directions-in-number-theory/), Springer, Association for Women in Mathematics Series.
+4\. [Women in Numbers Europe 4 – Research Directions in Number Theory](https://womeninnumbertheory.org/women-in-numbers-europe-iv-research-directions-in-number-theory/), Springer, Association for Women in Mathematics Series.
 
 <!---5. [Open Mathematics](https://www.degruyterbrill.com/journal/key/math/html?srsltid=AfmBOopPJjNxtNcopvy6kmSKjhIxkXymiRRySQXFnkgaMcpihmfroJfb)-->
 
-4\. [Rose-Hulman Undergraduate Mathematics Journal](https://scholar.rose-hulman.edu/rhumj/)
+5\. [Rose-Hulman Undergraduate Mathematics Journal](https://scholar.rose-hulman.edu/rhumj/)
 
 ## Teaching and service at Charles University, Prague
 1\. Refereed two Bachelor's theses.
