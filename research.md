@@ -82,7 +82,7 @@ _This is a completely rewritten version of Manuscript 15 in the graduate researc
 **Link to manuscript:** [Most recent version](L_functionsLSD.pdf)
 
 17\. The Furstenberg-Sárközy theorem for sums of an even number of odd powers (with Alexandros Kalogirou, Andrew Lott, and Akos Magyar) <br>
-_Completed manuscript; public version will be available soon._
+**Link to manuscript:** [arXiV](https://arxiv.org/abs/2609.16595)
     
 ## Forthcoming manuscripts
 18\. The Landau-Selberg-Delange method for products of Dirichlet $L$-functions, and applications, II. <br>
