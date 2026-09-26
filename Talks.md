@@ -39,5 +39,6 @@ _The Landau-Selberg-Delange method for Dirichlet L-functions, and applications_ 
 _The Landau-Selberg-Delange method for Dirichlet L-functions, and applications_ &nbsp; [Slides](Mon1Ses2RmATalk1SinghaRoy.pdf)
 
 12. [International Conference on Probability Theory and Number Theory](https://www.numbertheory.lt/) (September 2026) <br>
+_The Landau-Selberg-Delange method for Dirichlet L-functions, and applications_ &nbsp; [Slides](LfuncLSDICPTNT.pdf)
 
 13. University of Waterloo Number Theory Seminar (March 2027)
